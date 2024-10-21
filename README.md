@@ -1,1 +1,1 @@
-# pt-br-fn: Poʀtugèis Brazilèiru Fonétxicu (Português Brasileiro Fonético)
+# pt-br-fn: PoƦtugèis Brazilèiru Fonétxicu (Português Brasileiro Fonético)
