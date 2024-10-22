@@ -1,0 +1,29 @@
+/////////////////////////////////////
+PT-BR-FN TASKS
+/////////////////////////////////////
+
+current task
+-------------------------------------
+[ ] csv dictionary: words.csv
+[ ] identify patterns => patterns.csv 
+
+fixes
+-------------------------------------
+[ ] "u" vogal e "u" semivogal
+    - cf. aquático vs acuado
+    - em latim, Q <=> "u" semivogal
+        - e.g. cui vs qui
+    - solução: trazer o "q" de volta?
+
+features
+-------------------------------------
+[ ] module: translate
+    - translate(pt-br) -> pt-br-fn
+    - translate(pt-br-fn) -> pt-br
+[ ] module: compare
+    - stats to compare both languages
+
+finished
+-------------------------------------
+[x] improve project structure
+[x] get all portuguese words
