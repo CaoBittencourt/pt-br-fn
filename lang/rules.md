@@ -18,7 +18,7 @@
 ### Hierarquia Tônica dos Acentos
 - a princípio, quando há mais de um acento em uma palavra, e uma sílaba tônica,
     - agudo > grave > nasal
-    - e.g. abálàũ (pt. abalam): à > á > ũ
+    - e.g. abálàũ (pt. abalam): á > à > ũ
     - contra-exemplos
         - abalãsàũ (pt. abalançam): ã > à > a = a > ũ
         - solução?
