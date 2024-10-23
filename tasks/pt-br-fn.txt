@@ -9,11 +9,16 @@ current task
 
 fixes
 -------------------------------------
-[ ] "u" vogal e "u" semivogal
-    - cf. aquático vs acuado
-    - em latim, Q <=> "u" semivogal
-        - e.g. cui vs qui
-    - solução: trazer o "q" de volta?
+[ ] aglutinação: ú vs cwaziú
+    - abauròua, abauròwa, abawròwa???
+[ ] Éhi ("ʀ"), Éri ("r"), Há ("h")
+    - precisamos mesmo de três "r"?
+    - unicode: problemas com "ʀ"
+        - às vezes não aparece "ʀ"
+    - unicode: problemas com "r"
+        - não há "r" maiúsculo
+    - usar "h" no lugar de "ʀ"?
+        - porém, e os sotaques?
 
 features
 -------------------------------------
@@ -25,5 +30,20 @@ features
 
 finished
 -------------------------------------
+[x] "u" vogal e "u" semivogal
+    - cf. aquático vs acuado
+    - em latim, Q <=> "u" semivogal
+        - e.g. cui vs qui
+    - solução: trazer o "q" de volta?
+    - solução: adicionar outra vogal?
+        - e manter o "q" de fora
+        - uma letra "u" semivogal
+        - na IPA, utilizam "w"
+            - e.g. trãkwílu (pt. tranquilo)
+                - IPA: tɹˌɐ̃ŋkwˈilʊ
+            - e.g. acwátxicu (pt. aquático)
+                - IPA: ˌɐkwˈatikʊ
+            - cf. acuádu (pt. acuado)
+                - IPA: ˌɐkuˈadʊ
 [x] improve project structure
 [x] get all portuguese words

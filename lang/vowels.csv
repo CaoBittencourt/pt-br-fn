@@ -1,18 +1,19 @@
-uppercase|lowercase|comment|example|
-A|a|||
-Á|á|||
-À|à|||
-|ã|||
-E|e|||
-É|é|||
-È|è|||
-I|i|||
-Í|í|||
-Ĩ|ĩ|||
-O|o|||
-Ó|ó|||
-Ò|ò|||
-U|u|||
-Ú|ú|||
-Ũ|ũ|||ũ (pt. um)
-Û|û|||sû (pt. sul); azû (pt. azul)
+uppercase|lowercase|name|comment|example
+A|a|Á||
+Á|á|Á agúdu||
+À|à|Á grávi||
+Ã|ã|Á nazáu||ãtxis (pt. antes)
+E|e|È||
+É|é|È agúdu||
+È|è|È grávi||
+I|i|Í||
+Í|í|Í agúdu||
+Ĩ|ĩ|Í nazáu||
+O|o|Ó||
+Ó|ó|Ó agúdu||
+Ò|ò|Ó grávi||
+U|u|Ú||
+Ú|ú|Ú agúdu||
+Ũ|ũ|Ú nazáu||ũ (pt. um)
+Û|û|Ú agúdu-grávi||sû (pt. sul); azû (pt. azul)
+W|w|Cwaziú|"u" semivogal antecido de "q". outra aplicação para o cwaziú?|cwãdu (pt. quando); acwátxicu (pt. aquático)

@@ -4,14 +4,14 @@
 - sons vocálicos subsequentes são aglutinados
     - i.e. são pronunciados de maneira rápida e conjunta
     - os acentos bastam para indicar vogais e semivogais
-    - e.g. abaixaríàũ (pt. abaixariam)
-- única exceção: "u" semivogal após o "q"
-    - cf. aquátxicu (pt. aquático) vs acuádu (pt. acuado)
-    - mas isso, se mantivermos o "q" no alfabeto
-        - ver /pt-br-fn/tasks/pt-br-fn.txt
-    - se não mantivermos o "q" no alfabeto, será preciso outro mecanismo para diferenciar "u" vogal de semivogal
+        - e.g. abaixaríàũ (pt. abaixariam)
+        - e.g. cwãdu (pt. quando)
+        - e.g. acwátxicu (pt. aquático)
+        - e.g. trãcwílu (pt. tranquilo)
+        - e.g. acuádu (pt. acuado)
+        - e.g. subsecwèĩtxis (pt. subsequentes)
 
-## Acentos
+## Princípios de Acentuação
 ### Associação de Vogais e Acentos
 - alguns acentos não costumam ou nunca se associam a algumas vogais
 
@@ -27,3 +27,4 @@
                 - e ao analisar o som de "lan" em "abalançam", i.e. abalàãsàũ, parece, de fato, haver um "a" descendente antes do "a" nasal
 - idem para as vogais em si mesmas: há uma hierarquia vocálica
     - e.g. "i" e "u" só não são semivogais quando acentuados?
+    - e.g. "w" (cwaziú) é sempre semivogal, por definição
