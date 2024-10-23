@@ -1,4 +1,4 @@
-ptbr|ptbrfn|probably_correct|comment
+pt_br|pt_br_fn|probably_correct|comment
 a|a|2|
 à|aa|2|crase agora é uma letra (e uma palavra)
 Aarão|Aràũ|1|conflitua com a crase. manter Aaràũ?
@@ -114,7 +114,7 @@ abaixaria|abaixaría|2|
 abaixariam|abaixaríàũ|2|
 abaixaríamos|abaixaríàmus|2|
 abaixarias|abaixarías|2|
-abaixaríeis|abaixaríeis|2|de novo, acentuar a sílaba tônica é mais pragmático e mais acurado: cf. abaixaríeis vs. abaixaríèis|
+abaixaríeis|abaixaríeis|2|de novo, acentuar a sílaba tônica é mais pragmático e mais acurado: cf. abaixaríeis vs. abaixaríèis
 abaixarmo|abaixáʀmu|2|
 abaixarmos|abaixáʀmus|2|
 abaixas|abáixas|2|
@@ -306,7 +306,7 @@ abalo|abálu|2|
 abalos|abálus|2|
 abalou|abalòu|2|
 |||ʀ
-abalroa|abauròa|2|
+abalroa|abauròua|2|abauròwa? abauròa? abawròwa???
 abalroá|||
 abalroada|||
 abalroadas|||
