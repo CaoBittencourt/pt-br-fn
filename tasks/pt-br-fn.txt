@@ -9,6 +9,7 @@ current task
 
 fixes
 -------------------------------------
+[ ] hefèĩ?
 [ ] cüaziú vs cwaziú?
     - i.e. trema ou w?
 [ ] aglutinação: ú vs cwaziú
