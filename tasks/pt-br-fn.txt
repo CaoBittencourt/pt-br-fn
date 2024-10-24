@@ -9,6 +9,8 @@ current task
 
 fixes
 -------------------------------------
+[ ] cüaziú vs cwaziú?
+    - i.e. trema ou w?
 [ ] aglutinação: ú vs cwaziú
     - abauròua, abauròwa, abawròwa???
 [ ] Éhi ("ʀ"), Éri ("r"), Há ("h")
