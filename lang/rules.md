@@ -15,6 +15,10 @@
 ### Associação de Vogais e Acentos
 - alguns acentos não costumam ou nunca se associam a algumas vogais
 
+### Escopo da Altura e Tonicidade
+- o escopo da altura (agudo, neutro, grave) é semi-local
+- o escopo da tonicidade (forte, fraco) é semi-local
+
 ### Hierarquia Tônica dos Acentos
 - a princípio, quando há mais de um acento em uma palavra, e uma sílaba tônica,
     - agudo > grave > nasal

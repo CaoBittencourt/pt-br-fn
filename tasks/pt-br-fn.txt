@@ -9,16 +9,14 @@ current task
 
 fixes
 -------------------------------------
-[ ] aglutinação: ú vs cwaziú
+[ ] oliòu vs olïòu vs olyòu?
+    - lh vs li
+    - denotar i semivogal com trema?
+[ ] hefèĩ?
+[ ] cüaziú vs cwaziú?
+    - i.e. trema ou w?
+[ ] aglutinação: u vs cwaziú
     - abauròua, abauròwa, abawròwa???
-[ ] Éhi ("ʀ"), Éri ("r"), Há ("h")
-    - precisamos mesmo de três "r"?
-    - unicode: problemas com "ʀ"
-        - às vezes não aparece "ʀ"
-    - unicode: problemas com "r"
-        - não há "r" maiúsculo
-    - usar "h" no lugar de "ʀ"?
-        - porém, e os sotaques?
 
 features
 -------------------------------------
@@ -30,6 +28,15 @@ features
 
 finished
 -------------------------------------
+[x] references directory
+[x] Éhi ("ʀ"), Éri ("r"), Há ("h")
+    - precisamos mesmo de três "r"?
+    - unicode: problemas com "ʀ"
+        - às vezes não aparece "ʀ"
+    - unicode: problemas com "r"
+        - não há "r" maiúsculo
+    - usar "h" no lugar de "ʀ"?
+        - porém, e os sotaques?
 [x] "u" vogal e "u" semivogal
     - cf. aquático vs acuado
     - em latim, Q <=> "u" semivogal
