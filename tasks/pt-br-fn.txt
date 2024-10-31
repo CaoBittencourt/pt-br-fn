@@ -9,10 +9,13 @@ current task
 
 fixes
 -------------------------------------
+[ ] oliòu vs olïòu vs olyòu?
+    - lh vs li
+    - denotar i semivogal com trema?
 [ ] hefèĩ?
 [ ] cüaziú vs cwaziú?
     - i.e. trema ou w?
-[ ] aglutinação: ú vs cwaziú
+[ ] aglutinação: u vs cwaziú
     - abauròua, abauròwa, abawròwa???
 
 features
