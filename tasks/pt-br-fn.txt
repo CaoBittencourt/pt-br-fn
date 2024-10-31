@@ -28,6 +28,7 @@ features
 
 finished
 -------------------------------------
+[x] references directory
 [x] Éhi ("ʀ"), Éri ("r"), Há ("h")
     - precisamos mesmo de três "r"?
     - unicode: problemas com "ʀ"
