@@ -9,6 +9,14 @@ current task
 
 fixes
 -------------------------------------
+[ ] acu·ádu, acu-ádu, acuádu, acu'ádu
+    - remover trema e semiús?
+    - remover todos os hífens?
+    - indicador de ú não-semivogal
+[ ] altura vs tonicidade?
+    - e.g. màmàĩ (mamãe)
+        - dois "as" graves, um tônico
+        - màmȁĩ?
 [ ] oliòu vs olïòu vs olyòu?
     - lh vs li
     - denotar i semivogal com trema?
@@ -28,6 +36,7 @@ features
 
 finished
 -------------------------------------
+[-] vogal maiúscula na sílaba tônica?
 [x] references directory
 [x] Éhi ("ʀ"), Éri ("r"), Há ("h")
     - precisamos mesmo de três "r"?
