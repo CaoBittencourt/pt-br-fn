@@ -32,3 +32,13 @@
 - idem para as vogais em si mesmas: há uma hierarquia vocálica
     - e.g. "i" e "u" só não são semivogais quando acentuados?
     - e.g. "w" (cwaziú) é sempre semivogal, por definição
+
+### A Lei da Gravidade Vocálica
+- o "i" e o "u" são as semivogais por excelência
+    - de fato, muitos devem ter lido essa frase como "u i i u u" (e caído na gargalhada)
+    - isso, por si só, já exemplifica a "Lei da Gravidade Vocálica"
+- isto é, todo "e" fraco tende a "i" e todo "o" fraco tende a "u"
+- com o passar do tempo, a "Lei da Gravidade Vocálica", por assim dizer, "puxa" o "e" fraco para o "i" e o "o" fraco para o "u"
+- por isso, no latim, por exemplo, é tão comum as palavras terminarem em "us", e "is", etc.
+- portanto, sabendo que, no longo prazo, a língua tende ao mesmo estado de maturidade que o latim, já nos adiantamos em substituir todo "o" fraco por "u" e todo "e" fraco por "i"
+- aliás, hoje em dia, a língua portuguesa já está em seu estado de maturidade, porquanto já pronunciamos o "e" fraco e "o" fraco de acordo com a Lei da Gravidade Vocálica. convém, portanto, escrevermos de acordo também e, assim, a língua se ajusta aos falantes, e não o contrário.
