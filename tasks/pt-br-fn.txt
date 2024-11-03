@@ -4,12 +4,14 @@ PT-BR-FN TASKS
 
 current task
 -------------------------------------
-[ ] csv dictionary: words.csv
-[ ] identify patterns => patterns.csv 
+[\] csv dictionary: words.csv
+[\] module: translate
+    - translate(pt-br) -> pt-br-fn
+    - translate(pt-br-fn) -> pt-br
 
 notes
 -------------------------------------
-[!] pattern matching not trivial
+[!] 
 
 fixes
 -------------------------------------
@@ -18,19 +20,12 @@ fixes
 
 features
 -------------------------------------
-[ ] research verb tenses
-[ ] research conjugation patterns
-[ ] research irregular verbs
-[ ] individual csvs for verb tenses
-    - then, merge patterns into 1 csv
-[ ] module: translate
-    - translate(pt-br) -> pt-br-fn
-    - translate(pt-br-fn) -> pt-br
 [ ] module: compare
     - stats to compare both languages
 
 finished
 -------------------------------------
+[x] create translation module
 [x] update alphabet
 [x] update vowels
 [x] cüaziú vs cwaziú?

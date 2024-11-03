@@ -1,0 +1,27 @@
+/////////////////////////////////////
+TRANSLATE MODULE TASKS
+/////////////////////////////////////
+
+current task
+-------------------------------------
+[ ] identify patterns => patterns.csv 
+
+notes
+-------------------------------------
+[!] pattern matching not trivial
+
+fixes
+-------------------------------------
+
+features
+-------------------------------------
+[ ] research verb tenses
+[ ] research conjugation patterns
+[ ] research irregular verbs
+[ ] individual csvs for verb tenses
+    - then, merge patterns into 1 csv
+
+finished
+-------------------------------------
+[x] replace_from.R
+[x] unit test replace_from.R
