@@ -18,6 +18,11 @@ fixes
 
 features
 -------------------------------------
+[ ] research verb tenses
+[ ] research conjugation patterns
+[ ] research irregular verbs
+[ ] individual csvs for verb tenses
+    - then, merge patterns into 1 csv
 [ ] module: translate
     - translate(pt-br) -> pt-br-fn
     - translate(pt-br-fn) -> pt-br
