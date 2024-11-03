@@ -9,21 +9,7 @@ current task
 
 fixes
 -------------------------------------
-[ ] acu·ádu, acu-ádu, acuádu, acu'ádu
-    - remover trema e semiús?
-    - remover todos os hífens?
-    - indicador de ú não-semivogal
-[ ] altura vs tonicidade?
-    - e.g. màmàĩ (mamãe)
-        - dois "as" graves, um tônico
-        - màmȁĩ?
-[ ] oliòu vs olïòu vs olyòu?
-    - lh vs li
-    - denotar i semivogal com trema?
-[ ] hefèĩ?
-[ ] cüaziú vs cwaziú?
-    - i.e. trema ou w?
-[ ] aglutinação: u vs cwaziú
+[ ] aglutinação: u vs cüazi-ú
     - abauròua, abauròwa, abawròwa???
 
 features
@@ -36,6 +22,20 @@ features
 
 finished
 -------------------------------------
+[x] cüaziú vs cwaziú?
+    - i.e. trema ou w?
+[x] hefèĩ?
+[x] oliòu vs [x] olïòu vs olyòu?
+    - lh vs li
+    - denotar i semivogal com trema?
+[x] altura vs tonicidade?
+    - e.g. màmàĩ (mamãe)
+        - dois "as" graves, um tônico
+        - [x] màmȁĩ?
+[-] acu·ádu, acu-ádu, acuádu, acu'ádu
+    - [-] remover trema e semiús?
+    - [-] remover todos os hífens?
+    - [-] indicador de ú não-semivogal
 [-] vogal maiúscula na sílaba tônica?
 [x] references directory
 [x] Éhi ("ʀ"), Éri ("r"), Há ("h")
