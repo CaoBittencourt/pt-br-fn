@@ -1,7 +1,7 @@
 from|to|probably_correct|comment
 |||^.*$
 ai$|ái|1|imperativo segunda pessoa do plural
-ais$|áis$|1|
+ais$|áis|1|
 ardes$|áʀdjis|1
 rem$|reĩ|1
 emo$|èmu|1
@@ -10,8 +10,23 @@ armo$|áʀmu|1
 armos$|áʀmus|1
 ares$|áris|1
 asse$|ási|1
+asses$|ásis|1
+aste$|ástxi|1|
+astes$|ástxis|1|
+assem$|áseĩ|1
+ava$|áva|1|
+avam$|ávàũ|1|
+ávamos$|ávamus|1|
+avas$|ávas|1|
 ria$|ría|1
 rias$|rías|1
 riam$|ríàũ|1
+ásseis|áseis|1
 ão$|àũ|1|
 am$|àũ|1|
+ç|s|2
+ch|x|2
+lh|lï|1
+r$|ʀ|2
+^r|h|2
+rr|h|2

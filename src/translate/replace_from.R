@@ -1,12 +1,15 @@
-# imports -----------------------------------------------------------------
+# SETUP -------------------------------------------------------------------
+# - imports -----------------------------------------------------------------
 box::use(
   stringr[str_replace_all]
   ,vctrs[new_data_frame]
   ,mgsub[mgsub]
   ,utils[read.csv]
+  ,tibble[as_tibble]
 )
 
-# as from_to data type -------------------------------------------------------------------------
+# FUNCTIONS ---------------------------------------------------------------
+# - as from_to data type -------------------------------------------------------------------------
 as.from_to <- function(df) {
 
   # assert args
@@ -29,10 +32,10 @@ as.from_to <- function(df) {
 
 }
 
-# is from_to data type -------------------------------------------------------------------------
+# - is from_to data type -------------------------------------------------------------------------
 is.from_to <- function(x) {return(any("from_to" == class(x)))}
 
-# read from_to ------------------------------------------------------------
+# - read from_to ------------------------------------------------------------
 read.from_to <- function(path, sep = ',') {
 
   # assert args
@@ -45,6 +48,7 @@ read.from_to <- function(path, sep = ',') {
       file = path
       ,sep = sep[[1]]
     ) |>
+      as_tibble() |>
       as.from_to()
   }
   , error = function(e){
@@ -58,7 +62,7 @@ read.from_to <- function(path, sep = ',') {
   )
 }
 
-# replace with from_to ----------------------------------------------------
+# - replace with from_to ----------------------------------------------------
 replace.from_to <- function(x, from_to = NULL) {
 
   # assert args
@@ -87,7 +91,8 @@ replace.from_to <- function(x, from_to = NULL) {
 
 }
 
-# exports ------------------------------------------------------------------
+# MODULE ------------------------------------------------------------------
+# - exports ------------------------------------------------------------------
 box::export(
   as.from_to
   ,is.from_to

@@ -57,13 +57,13 @@ abafaria|abafaría|2|
 abafariam|abafaríàũ|2|
 abafaríamos|abafaríamus|1|abafaríàmus?
 abafarias|abafarías|2|
-abafaríeis|abafaríèis/abafaríeis|1|
+abafaríeis|abafaríeis|1|abafaríèis?
 abafarmo|abafáʀmu|2|
 abafarmos|abafáʀmus|2|
 abafas|abáfas|2|
 abafasse|abafási|2|
-abafásseis|abafáseis/abafásèis|1|
-abafassem|abafásèĩ/abafáseĩ|1|
+abafásseis|abafáseis|1|abafásèis?
+abafassem|abafáseĩ|1|abafásèĩ?
 abafássemos|abafásimus|2|
 abafasses|abafásis|2|
 abafaste|abafástxi|2|
@@ -72,7 +72,7 @@ abafava|abafáva|2|
 abafavam|abafávàũ|2|
 abafávamos|abafávamus|2|
 abafavas|abafávas|2|
-abafáveis|abafáveis/abafávèis|1|
+abafáveis|abafáveis|1|abafávèis?
 abafe|abáfi|2|
 abafei|abafèi|2|seria mais adequado e até correto minimizar a quantidade de acentos por palavra? i.e. acentuar a sílaba tônica e apenas quando adequado as outras sílabas? i.e. ceteris paribus as letras são pronunciadas normalmente
 abafeis|abafèis|2|
@@ -127,7 +127,7 @@ abaixaste|abaixástxi|2|
 abaixastes|abaixástxis|2|
 abaixava|abaixáva|2|
 abaixavam|abaixávàũ|2|
-abaixávamos|abaixávàmus|2|
+abaixávamos|abaixávamus|1|abaixávàmus?
 abaixavas|abaixávas|2|
 abaixáveis|abaixáveis|2|de novo, o "a" tônico rouba a tonicidade das outras vogais
 abaixe|abáixi|2|
@@ -185,7 +185,7 @@ abalançarmos|abalãsáʀmus|2|
 abalanças|abalãsas|2|
 abalançasse|abalãsási|2|
 abalançásseis|abalãsáseis|1|
-->abalançassem|abalãsáseĩ|2|
+abalançassem|abalãsáseĩ|2|
 abalançássemos|abalãsásimus|2|
 abalançasses|abalãsásis|2|
 abalançaste|abalãsástxi|2|
@@ -397,18 +397,18 @@ abanarmo|abanáʀmu|2|
 abanarmos|abanáʀmus|2|
 abanas|abànas|2|
 abanasse|abanási|2|
+abanásseis|abanáseis|2|
+abanassem|abanáseĩ|2|
+abanássemos|abanásimus|2|
+abanasses|abanásis|2|
+abanaste|abanástxi|2|
+abanastes|abanástxis|2|
+abanava|abanáva|2|
+abanavam|abanávàũ|2|
+abanávamos|abanávamus|1|abanávàmus?
+abanavas|abanávas|2|
+abanáveis|abanáveis|2|
 |||ʀ
-abanásseis|||
-abanassem|||
-abanássemos|||
-abanasses|||
-abanaste|||
-abanastes|||
-abanava|||
-abanavam|||
-abanávamos|||
-abanavas|||
-abanáveis|||
 abandalha|||
 abandalhá|||
 abandalhado|||

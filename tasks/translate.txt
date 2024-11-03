@@ -4,7 +4,7 @@ TRANSLATE MODULE TASKS
 
 current task
 -------------------------------------
-[ ] identify patterns => patterns.csv 
+[\] identify patterns => patterns.csv 
 
 notes
 -------------------------------------
@@ -12,6 +12,7 @@ notes
 
 fixes
 -------------------------------------
+[ ]
 
 features
 -------------------------------------
@@ -23,5 +24,6 @@ features
 
 finished
 -------------------------------------
-[x] replace_from.R
-[x] unit test replace_from.R
+[x] patterns.r
+[x] replace_from.r
+[x] unit test replace_from.r
