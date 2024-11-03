@@ -5,11 +5,15 @@
     - i.e. são pronunciados de maneira rápida e conjunta
     - os acentos bastam para indicar vogais e semivogais
         - e.g. abaixaríàũ (pt. abaixariam)
+        - e.g. subsecwèĩtxis (pt. subsequentes)
+        - e.g. cüãdu (pt. quando)
+        - e.g. acüátxicu (pt. aquático)
+        - e.g. trãcüílu (pt. tranquilo)
+        <!-- - e.g. subsecwèĩtxis (pt. subsequentes)
         - e.g. cwãdu (pt. quando)
         - e.g. acwátxicu (pt. aquático)
-        - e.g. trãcwílu (pt. tranquilo)
+        - e.g. trãcwílu (pt. tranquilo) -->
         - e.g. acuádu (pt. acuado)
-        - e.g. subsecwèĩtxis (pt. subsequentes)
 
 ## Princípios de Acentuação
 ### Associação de Vogais e Acentos
