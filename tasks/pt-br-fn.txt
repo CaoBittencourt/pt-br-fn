@@ -22,6 +22,8 @@ features
 
 finished
 -------------------------------------
+[x] update alphabet
+[x] update vowels
 [x] cüaziú vs cwaziú?
     - i.e. trema ou w?
 [x] hefèĩ?
