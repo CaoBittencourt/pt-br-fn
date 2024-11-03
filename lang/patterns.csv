@@ -1,3 +1,6 @@
-from|to|comment
-||^.*$
-ão$|àũ|
+from|to|probably_correct|comment
+|||^.*$
+ão$|àũ|1|
+am$|àũ|1|
+ai$|abanái|1|imperativo segunda pessoa do plural
+ais$|áis$|1|

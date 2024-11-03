@@ -7,6 +7,10 @@ current task
 [ ] csv dictionary: words.csv
 [ ] identify patterns => patterns.csv 
 
+notes
+-------------------------------------
+[!] pattern matching not trivial
+
 fixes
 -------------------------------------
 [ ] aglutinação: u vs cüazi-ú
