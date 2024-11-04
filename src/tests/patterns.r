@@ -21,22 +21,15 @@ patterns_csv <- file.path(getwd(), 'lang','patterns.csv')
 
 # word list
 getwd() |>
-  file.path(
-    'lang'
-    , 'words.csv'
-  ) |>
-  read.csv(
-    sep = csv_sep
-  ) |>
+  file.path('lang', 'words.csv') |>
+  read.csv(sep = csv_sep) |>
   as_tibble() ->
   words
 
 # DATA WRANGLING ----------------------------------------------------------
 # - patterns as from_to data frame ----------------------------------------------------
 patterns_csv |>
-  br$read.from_to(
-    sep = csv_sep
-  ) |>
+  br$read.from_to(sep = csv_sep) |>
   na.omit() ->
   patterns
 
