@@ -5,11 +5,13 @@
     - i.e. são pronunciados de maneira rápida e conjunta
     - os acentos bastam para indicar vogais e semivogais
         - e.g. abaixaríàũ (pt. abaixariam)
-        - e.g. subsecwèĩtxis (pt. subsequentes)
-        - e.g. cwãdu (pt. quando)
-        - e.g. acwátxicu (pt. aquático)
-        - e.g. trãcwílu (pt. tranquilo)
+        - e.g. subsecüèĩtxis (pt. subsequentes)
+        - e.g. cüãdu (pt. quando)
+        - e.g. acüátxicu (pt. aquático)
+        - e.g. trãcüílu (pt. tranquilo)
         - e.g. acuádu (pt. acuado)
+            - ou aguádu vs acǔádu (o sinal vocálico "ˇ" indica que o "u" não é semi-vogal nessa palavra e, portanto, não deve ser aglutinado como na palavra "aguado")
+        - e.g. agüádu (pt. aguado)
 
 ## Princípios de Acentuação
 ### Associação de Vogais e Acentos
@@ -33,7 +35,7 @@
                 - e ao analisar o som de "lan" em "abalançam", i.e. abalàãsàũ, parece, de fato, haver um "a" descendente antes do "a" nasal, porquanto não trata-se de um "a" nasal simplesmente, mas de um "a nasal descendente" 
 - idem para as vogais em si mesmas: há uma hierarquia vocálica
     - e.g. "i" e "u" só não são semivogais quando acentuados?
-    - e.g. "w" (cwaziú) é sempre semivogal, por definição
+    - e.g. "ü" (cüaziú) é sempre semivogal, por definição
 
 ### A Lei da Gravidade Vocálica
 - o "i" e o "u" são as semivogais por excelência
