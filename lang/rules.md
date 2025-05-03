@@ -9,9 +9,11 @@
         - e.g. cuãdu (pt. quando)
         - e.g. acuátxicu (pt. aquático)
         - e.g. trãcuílu (pt. tranquilo)
-        - e.g. acuuádu (pt. acuado)
+        - e.g. acuuádu/acüádu (pt. acuado)
         - e.g. aguádu (pt. aguado)
-        - e.g. iiátu (pt. hiato)
+        - e.g. iiátu/ïátu (pt. hiato)
+        - e.g. äcéla/aacéla (pt. àquela)
+        - cuidado: vòuu != vòü (pt. voo)
 
 ## Princípios de Acentuação
 ### Associação de Vogais e Acentos

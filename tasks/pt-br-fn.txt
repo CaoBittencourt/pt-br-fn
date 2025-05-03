@@ -15,8 +15,7 @@ notes
 
 fixes
 -------------------------------------
-[ ] aglutinação: u vs cwaziú
-    - abauròua, abauròwa, abawròwa???
+[ ]
 
 features
 -------------------------------------
