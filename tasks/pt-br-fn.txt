@@ -4,6 +4,9 @@ PT-BR-FN TASKS
 
 current task
 -------------------------------------
+[?] do silent consonants actually exist in portuguese?
+    - if no, then ð (dji) => dj?
+    => alphabet with 23 letters?
 [\] csv dictionary: words.csv
 [\] module: translate
     - translate(pt-br) -> pt-br-fn
