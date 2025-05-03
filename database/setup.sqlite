@@ -1,0 +1,112 @@
+-- connect to database
+.print ----------------------
+.print Connecting to database
+.print ----------------------
+.print
+.databases
+.open ptbrfn.db
+
+-- settings
+.print
+.print --------------------------
+.print Applying database settings
+.print --------------------------
+.print
+-- enable wal mode
+.print PRAGMA journal_mode = WAL;
+PRAGMA journal_mode = WAL;
+
+-- enable foreign keys
+.print PRAGMA foreign_keys = ON;
+PRAGMA foreign_keys = ON;
+
+-- set sync mode to normal
+.print PRAGMA synchronous = NORMAL;
+PRAGMA synchronous = NORMAL;
+
+-- set cache size
+.print PRAGMA cache_size = 10000;
+PRAGMA cache_size = 10000;
+-- cache_size must be set for each session?
+
+-- set temp tables storage
+.print PRAGMA temp_store = MEMORY;
+PRAGMA temp_store = MEMORY;
+
+-- PRAGMA mmap_size = 268435456; --256MB
+-- mmap_size must be set for each session.
+
+-- create tables
+.print
+.print ---------------
+.print Creating tables
+.print ---------------
+.print ------------------
+.print Independent tables
+.print ------------------
+.print
+
+.print tables/lang/alphabet.sql 
+.read tables/lang/alphabet.sql
+
+.print
+.print ----------------
+.print Dependent tables
+.print ----------------
+.print
+
+.print tables/lang/vowels.sql
+.read tables/lang/vowels.sql
+.print tables/examples/alphabet.sql
+.read tables/examples/alphabet.sql
+.print tables/examples/vowels.sql
+.read tables/examples/vowels.sql
+
+-- create indexes
+.print
+.print ----------------
+.print Creating indexes
+.print ----------------
+.print
+
+.print indexes/indexes.sql
+.read indexes/indexes.sql
+
+-- -- create views
+-- .print
+-- .print --------------------
+-- .print Creating table views
+-- .print --------------------
+-- .print
+
+-- populate database
+.print
+.print -------------------
+.print Populating database
+.print -------------------
+.print ------------------
+.print Independent tables
+.print ------------------
+.print
+
+.print data/lang/alphabet.sql 
+.read data/lang/alphabet.sql
+
+.print
+.print ----------------
+.print Dependent tables
+.print ----------------
+.print
+
+.print data/lang/vowels.sql
+.read data/lang/vowels.sql
+.print data/examples/alphabet.sql
+.read data/examples/alphabet.sql
+.print data/examples/vowels.sql
+.read data/examples/vowels.sql
+
+-- exit sqlite
+.print
+.print Successfully created database!
+.print
+.exit
