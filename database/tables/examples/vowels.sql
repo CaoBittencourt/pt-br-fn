@@ -1,7 +1,9 @@
 CREATE TABLE IF NOT EXISTS vowelsExamples (
-    exapleId INTEGER PRIMARY KEY,
+    exampleId INTEGER PRIMARY KEY,
     example TEXT NOT NULL,
-    vowelId INTEGER NOT NULL,
     comment TEXT DEFAULT NULL,
-    FOREIGN KEY (vowelId) REFERENCES vowels (vowelId) ON DELETE CASCADE
+    vowelId INTEGER NOT NULL,
+    dialectId INTEGER NOT NULL,
+    FOREIGN KEY (vowelId) REFERENCES vowels (vowelId) ON DELETE CASCADE,
+    FOREIGN KEY (dialectId) REFERENCES dialects (dialectId) ON DELETE CASCADE
 );

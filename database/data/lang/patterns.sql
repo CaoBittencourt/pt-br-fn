@@ -1,0 +1,12 @@
+INSERT INTO
+    patterns (dialectId, [from], [to])
+VALUES
+    -- official dialect
+    (1, 'ç', 's'),
+    (1, 'ch', 'x'),
+    (1, 'lh', 'lli'),
+    (1, 'nh', 'ĩ'),
+    (1, 'r$', 'ʀ'),
+    (1, '^r', 'h'),
+    (1, 'rr', 'h'),
+    (1, 'ss', 's');

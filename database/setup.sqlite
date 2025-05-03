@@ -48,6 +48,11 @@ PRAGMA temp_store = MEMORY;
 
 .print tables/lang/alphabet.sql 
 .read tables/lang/alphabet.sql
+.print tables/lang/diacritics.sql 
+.read tables/lang/diacritics.sql
+.print tables/lang/dialects.sql 
+.read tables/lang/dialects.sql
+
 
 .print
 .print ----------------
@@ -55,8 +60,13 @@ PRAGMA temp_store = MEMORY;
 .print ----------------
 .print
 
+.print tables/lang/patterns.sql
+.read tables/lang/patterns.sql
 .print tables/lang/vowels.sql
 .read tables/lang/vowels.sql
+.print tables/lang/defaults.sql
+.read tables/lang/defaults.sql
+
 .print tables/examples/alphabet.sql
 .read tables/examples/alphabet.sql
 .print tables/examples/vowels.sql
@@ -91,6 +101,11 @@ PRAGMA temp_store = MEMORY;
 
 .print data/lang/alphabet.sql 
 .read data/lang/alphabet.sql
+.print data/lang/diacritics.sql 
+.read data/lang/diacritics.sql
+.print data/lang/dialects.sql 
+.read data/lang/dialects.sql
+
 
 .print
 .print ----------------
@@ -98,8 +113,13 @@ PRAGMA temp_store = MEMORY;
 .print ----------------
 .print
 
+.print data/lang/patterns.sql
+.read data/lang/patterns.sql
 .print data/lang/vowels.sql
 .read data/lang/vowels.sql
+.print data/lang/defaults.sql
+.read data/lang/defaults.sql
+
 .print data/examples/alphabet.sql
 .read data/examples/alphabet.sql
 .print data/examples/vowels.sql

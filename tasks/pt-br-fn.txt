@@ -4,6 +4,7 @@ PT-BR-FN TASKS
 
 current task
 -------------------------------------
+[?] defaults => optional diacritics?
 [\] csv dictionary: words.csv
 [\] module: translate
     - translate(pt-br) -> pt-br-fn
