@@ -2,8 +2,7 @@ uppercase|lowercase|name|comment
 A|a|Á|
 B|b|Bè|
 C|c|Cá|"C" agora tem sempre som de "k". trocar o "c" por "k"?
-D|d|Dè|
-Ð|ð|Ðí|o som do "d" em "di" e "de" com "e" fraco (som de "i") nos sotaques não-nordestinos agora é sua própria letra: não é nem "d" nem "j", mas "d-com-j"; nem "di" nem "ji", mas "dji". obs: como no alemão ß (ss), na ausência da tecla, atalho ("alt-gr + d"?), ligadura, etc, pode-se escrever "dj". obs: por enquanto usamos ð e Ð como placeholders para o dji.
+D|d|Dè|decidi não adicionar a letra "dji" (dji, "d+j"), porque a pronúncia de outros encontros consonatais (e.g. "br" em Brazíu, pt. Brasil) não requerem uma letra inteira dedicada no alfabeto; e, além disso, (basicamente) não existem consoantes mudas em português; portanto, o "dji" deve ser escrito com encontro consonantal de "d+j"
 E|e|È|
 F|f|Éfi|
 G|g|Gè|"g" agora é "g", "j" agora é "j": o primeiro "g" em "garagem" é um "g", o segundo, um "j". portanto, "garájeĩ".
@@ -18,8 +17,7 @@ P|p|Pè|
 R|ʀ|Éhi|o segundo tipo de "r" no português agora é sua própria letra. esse "r" não é fricativo nem (necessariamente) gutural: é um "r" "coringa", ou "regionalista", que pronuncia-se, no interior, "puxado", e em outros lugares como "há" ("h", "r" europeu). exemplo: a palavra restaurador tem os três tipos de "r". em português fonético é escrita: hestauradòʀ. ou usar "ꭆ"? obs: a princípio, Éhi nunca é maiúsculo, porque nenhuma palavra, por definição, pode começar com r pós-vocálico (Éhi); mas, é preciso da letra maiúscula para quando se escreve em caixa alta. convém, portanto, utilizar um "R" maiúsculo pequeno para grafar o "éhi" (ʀ).
 Г|r|Éri|o "r" fricativo é o último tipo de "r" no português. exemplo: a palavra restaurador tem os três tipos de "r". em português fonético é escrita: hestauradòʀ. a princípio, sua letra maiúscula deve ser apenas a letra minúscula "r" em caixa alta. porém, parece que não existe em unicode "r" minúsculo maiúsculo, embora haja "R" maiúsculo minúsculo ("ʀ"). por enquanto usemos a letra grega gama maiúscula como placeholder. HESTAUՐADÒR? HESTAUГADÒR? alternativamente, podemos trazer a letra grega pi de volta e mudar o p de volta para um r (como é em russo, por exemplo, Пп). e.g. пpĩsíпiu (fica muito alienígena para nós, latinos).
 S|s|Ési|não existe mais dois "s" ("ss"), nem a abominação que é o cedilha ("ç"), nem "s" com som de "z": agora "s" é sempre "s". cáza é escrito com "z".
-T|t|Tè|
-TX|tx|Txí|cf. "Dè" e "Djí".
+T|t|Tè|cf. "Dè" e "Djí".
 U|u|Ú|
 V|v|Vè|
 X|x|Xís|agora que não existe mais "ch", o "x" é muito mais utilizado: "xá" agora se escreve com "x", não "ch" (pt. chá).
