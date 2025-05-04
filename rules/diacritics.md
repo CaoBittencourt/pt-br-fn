@@ -1,6 +1,7 @@
 # Princípios de Acentuação
 ## Acentos
 O Português Brasileiro Fonético conta com cinco acentos:
+
 |Acento|Nome|Efeito|
 |------|----|-------|
 |´|Acento agudo|Altas tonicidade e altura (som agudo)|
@@ -9,10 +10,11 @@ O Português Brasileiro Fonético conta com cinco acentos:
 |~|Acento nasal|Nasaliza o som de uma vogal, "curvando-o"|
 |¨|Acento duplo|Dobra uma (semi-)vogal (tornando-a vogal, se semi-vogal)|
 
-Teoricamente, poderia haver um acento grave-agudo (descendente-ascendente), mas esse nunca é utilizado na língua portuguesa. Então, não é incluso aqui.
+Teoricamente, poderia haver um acento grave-agudo, mas esse nunca é utilizado na língua portuguesa. Então, não é incluso aqui.
 
 ## Associação de Vogais e Acentos
-Alguns acentos não costumam ou nunca se associam a algumas vogais. Por exemplo, a letra "i" nunca é grave, embora comumente seja nasalizada; a letra "u" é a única que pode receber o acento agudo-grave; e assim por diante, conforme a tabela abaixo:
+Alguns acentos não costumam ou nunca se associam a algumas vogais. Por exemplo, a letra "i" nunca é grave, embora comumente seja nasalizada; a letra "u" é a única em que utilizamos o acento agudo-grave; e assim por diante, conforme a tabela abaixo:
+
 |Maiúscula|Minúscula|Vogal|Exemplo|
 |---------|---------|-----|-------|
 |A|a|Á|||
