@@ -4,7 +4,7 @@
 .print ----------------------
 .print
 .databases
-.open ptbrfn.db
+.open brfn.db
 
 -- settings
 .print
@@ -46,12 +46,12 @@ PRAGMA temp_store = MEMORY;
 .print ------------------
 .print
 
-.print tables/lang/alphabet.sql 
-.read tables/lang/alphabet.sql
-.print tables/lang/diacritics.sql 
-.read tables/lang/diacritics.sql
-.print tables/lang/dialects.sql 
-.read tables/lang/dialects.sql
+.print tables/alphabet.sql 
+.read tables/alphabet.sql
+.print tables/diacritics.sql 
+.read tables/diacritics.sql
+.print tables/dialects.sql 
+.read tables/dialects.sql
 
 
 .print
@@ -60,17 +60,12 @@ PRAGMA temp_store = MEMORY;
 .print ----------------
 .print
 
-.print tables/lang/patterns.sql
-.read tables/lang/patterns.sql
-.print tables/lang/vowels.sql
-.read tables/lang/vowels.sql
-.print tables/lang/defaults.sql
-.read tables/lang/defaults.sql
-
-.print tables/examples/alphabet.sql
-.read tables/examples/alphabet.sql
-.print tables/examples/vowels.sql
-.read tables/examples/vowels.sql
+.print tables/patterns.sql
+.read tables/patterns.sql
+.print tables/vowels.sql
+.read tables/vowels.sql
+.print tables/defaults.sql
+.read tables/defaults.sql
 
 -- create indexes
 .print
@@ -99,13 +94,12 @@ PRAGMA temp_store = MEMORY;
 .print ------------------
 .print
 
-.print data/lang/alphabet.sql 
-.read data/lang/alphabet.sql
-.print data/lang/diacritics.sql 
-.read data/lang/diacritics.sql
-.print data/lang/dialects.sql 
-.read data/lang/dialects.sql
-
+.print data/alphabet.sql 
+.read data/alphabet.sql
+.print data/diacritics.sql 
+.read data/diacritics.sql
+.print data/dialects.sql 
+.read data/dialects.sql
 
 .print
 .print ----------------
@@ -113,17 +107,12 @@ PRAGMA temp_store = MEMORY;
 .print ----------------
 .print
 
-.print data/lang/patterns.sql
-.read data/lang/patterns.sql
-.print data/lang/vowels.sql
-.read data/lang/vowels.sql
-.print data/lang/defaults.sql
-.read data/lang/defaults.sql
-
-.print data/examples/alphabet.sql
-.read data/examples/alphabet.sql
-.print data/examples/vowels.sql
-.read data/examples/vowels.sql
+.print data/patterns.sql
+.read data/patterns.sql
+.print data/vowels.sql
+.read data/vowels.sql
+.print data/defaults.sql
+.read data/defaults.sql
 
 -- exit sqlite
 .print

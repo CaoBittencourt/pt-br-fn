@@ -14,10 +14,10 @@ WHERE
 INSERT INTO
     vowels (uppercase, lowercase, vowel, letterId)
 VALUES
-    ('Á', 'á', 'Á agúdu', 1),
-    ('À', 'à', 'Á grávi', 1),
-    ('Ã', 'ã', 'Á nazáu', 1),
-    ('Ä', 'ä', 'Á dúplu', 1);
+    ('Á', 'á', 'A Agudo', 1),
+    ('À', 'à', 'A Grave', 1),
+    ('Ã', 'ã', 'A Nasal', 1),
+    ('Ä', 'ä', 'A Duplo', 1);
 
 -- e
 INSERT INTO
@@ -35,9 +35,9 @@ WHERE
 INSERT INTO
     vowels (uppercase, lowercase, vowel, letterId)
 VALUES
-    ('É', 'é', 'È agúdu', 5),
-    ('È', 'è', 'È grávi', 5),
-    ('Ë', 'ë', 'È dúplu', 5);
+    ('É', 'é', 'E Agudo', 5),
+    ('È', 'è', 'E Grave', 5),
+    ('Ë', 'ë', 'E Duplo', 5);
 
 -- i
 INSERT INTO
@@ -55,10 +55,10 @@ WHERE
 INSERT INTO
     vowels (uppercase, lowercase, vowel, letterId)
 VALUES
-    ('Í', 'í', 'Í agúdu', 9),
-    ('Ĩ', 'ĩ', 'Í nazáu', 9),
-    ('Ï', 'ï', 'Í dúplu', 9),
-    ('Î', 'î', 'Í agúdu-grávi', 9);
+    ('Í', 'í', 'I Agudo', 9),
+    ('Ĩ', 'ĩ', 'I Nasal', 9),
+    ('Ï', 'ï', 'I Duplo', 9),
+    ('Î', 'î', 'I Agudo-Grave', 9);
 
 -- o
 INSERT INTO
@@ -76,9 +76,9 @@ WHERE
 INSERT INTO
     vowels (uppercase, lowercase, vowel, letterId)
 VALUES
-    ('Ó', 'ó', 'Ò agúdu', 14),
-    ('Ò', 'ò', 'Ò grávi', 14),
-    ('Ö', 'ö', 'Ò dúplu', 14);
+    ('Ó', 'ó', 'O Agudo', 14),
+    ('Ò', 'ò', 'O Grave', 14),
+    ('Ö', 'ö', 'O Duplo', 14);
 
 -- u
 INSERT INTO
@@ -96,7 +96,7 @@ WHERE
 INSERT INTO
     vowels (uppercase, lowercase, vowel, letterId)
 VALUES
-    ('Ú', 'ú', 'Ú agúdu', 20),
-    ('Ũ', 'ũ', 'Ú nazáu', 20),
-    ('Ü', 'ü', 'Ú dúplu', 20),
-    ('Û', 'û', 'Ú agúdu-grávi', 20);
+    ('Ú', 'ú', 'U Agudo', 20),
+    ('Ũ', 'ũ', 'U Nasal', 20),
+    ('Ü', 'ü', 'U Duplo', 20),
+    ('Û', 'û', 'U Agudo-Grave', 20);

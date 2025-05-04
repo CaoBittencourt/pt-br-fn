@@ -6,7 +6,7 @@ VALUES
         1,
         1,
         'á',
-        'exceção: a nasal ("ã") é sempre grave, cf. a nasalizado em espanhol'
+        'exceção: "a" nasal ("ã") é sempre grave, cf. "a" nasalizado em espanhol'
     ),
     (5, 1, 'è', NULL),
     (9, 1, 'í', NULL),
