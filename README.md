@@ -24,8 +24,8 @@ Este repositório está organizado com a seguinte estrutura:
 
 |Diretório|Conteúdo|
 |---------|--------|
-|`/lang/examples`|Textos exemplificando o Português Brasileiro Fonético|
-|`/lang/rules`|Um sumário das regras, princípios, e demais características do Português Brasileiro Fonético
+|`/examples`|Textos exemplificando o Português Brasileiro Fonético|
+|`/rules`|Um sumário das regras, princípios, e demais características do Português Brasileiro Fonético
 |`/resources`|Referências úteis sobre fonética e gramática|
 |`/src/env`|Código para configurar este ambiente de desenvolvimento|
 |`/src/mod`|Código para transcrição e comparação linguística|
