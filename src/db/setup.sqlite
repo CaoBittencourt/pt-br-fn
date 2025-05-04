@@ -4,7 +4,7 @@
 .print ----------------------
 .print
 .databases
-.open brfn.db
+.open ptbrfn.db
 
 -- settings
 .print

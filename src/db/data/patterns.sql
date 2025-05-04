@@ -4,8 +4,8 @@ VALUES
     -- official dialect
     (1, 'ç', 's'),
     (1, 'ch', 'x'),
-    (1, 'di', 'dji'),
-    (1, 'ti', 'txi'),
+    -- (1, 'di', 'dji'), -- could have an accent mark
+    -- (1, 'ti', 'txi'), -- could have an accent mark
     (1, 'lh', 'lli'),
     (1, 'nh', 'ĩ'),
     (1, 'r$', 'ʀ'),

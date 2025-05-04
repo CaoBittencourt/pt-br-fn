@@ -1,9 +1,9 @@
-CREATE TABLE IF NOT EXISTS vowelsDefaults (
-    vowelId INTEGER NOT NULL,
-    dialectId INTEGER NOT NULL,
-    defaultSound TEXT NOT NULL,
-    comment TEXT DEFAULT NULL,
-    PRIMARY KEY (vowelId, dialectId),
-    FOREIGN KEY (dialectId) REFERENCES dialects (dialectId) ON DELETE CASCADE,
-    FOREIGN KEY (vowelId) REFERENCES vowels (vowelId) ON DELETE CASCADE
-);
+-- CREATE TABLE IF NOT EXISTS vowelsDefaults (
+--     letterId INTEGER NOT NULL,
+--     dialectId INTEGER NOT NULL,
+--     defaultSound TEXT NOT NULL CHECK (defaultSound IN ('Agudo', 'Grave')),
+--     comment TEXT DEFAULT NULL,
+--     PRIMARY KEY (letterId, dialectId),
+--     FOREIGN KEY (dialectId) REFERENCES dialects (dialectId) ON DELETE CASCADE,
+--     FOREIGN KEY (letterId) REFERENCES _vowels (letterId) ON DELETE CASCADE
+-- );
