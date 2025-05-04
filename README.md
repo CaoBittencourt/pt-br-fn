@@ -24,12 +24,12 @@ Este repositório está organizado com a seguinte estrutura:
 
 |Diretório|Conteúdo|
 |---------|--------|
-|`/database`|Uma base de dados relacional com toda a informação deste repositório|
-|`/env`|Código para configurar este ambiente de desenvolvimento|
 |`/examples`|Textos exemplificando o Português Brasileiro Fonético|
 |`/lang`|Um sumário das regras, princípios, e demais características do Português Brasileiro Fonético
 |`/resources`|Referências úteis sobre fonética e gramática|
-|`/src`|Código para transcrição e comparação linguística|
+|`/src/env`|Código para configurar este ambiente de desenvolvimento|
+|`/src/mod`|Código para transcrição e comparação linguística|
+|`/src/db`|Uma base de dados relacional com toda a informação deste repositório|
 |`/tasks`|Listas de tarefas|
 
 Além disso, na raiz do repositório, junto a este arquivo, constam a licença e o código de conduta do projeto.
