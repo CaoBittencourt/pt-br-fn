@@ -1,18 +1,43 @@
 # Princípios de Acentuação
 ## Acentos
 O Português Brasileiro Fonético conta com cinco acentos:
-|Acento|Nome|Exemplo|
+|Acento|Nome|Efeito|
 |------|----|-------|
-|´|Acento agudo|Água (pt. água)|
-|`|Acento grave|Màĩ (pt. mãe)|
-|^|Acento agudo-grave|Sû (pt. sul)|
-|~|Acento nasal|ũ (pt. um)|
-|¨|Acento duplo|acuuádu/acüádu (pt. acuado, cf. aguado)|
+|´|Acento agudo|Altas tonicidade e altura (som agudo)|
+|`|Acento grave|Alta tonicidade, e baixa altura (som grave)|
+|^|Acento agudo-grave|Percorre todo o espectro sonoro de uma vogal (do agudo ao grave)|
+|~|Acento nasal|Nasaliza o som de uma vogal, "curvando-o"|
+|¨|Acento duplo|Dobra uma (semi-)vogal (tornando-a vogal, se semi-vogal)|
 
 Teoricamente, poderia haver um acento grave-agudo (descendente-ascendente), mas esse nunca é utilizado na língua portuguesa. Então, não é incluso aqui.
 
 ## Associação de Vogais e Acentos
 Alguns acentos não costumam ou nunca se associam a algumas vogais. Por exemplo, a letra "i" nunca é grave, embora comumente seja nasalizada; a letra "u" é a única que pode receber o acento agudo-grave; e assim por diante, conforme a tabela abaixo:
+|Maiúscula|Minúscula|Vogal|Exemplo|
+|---------|---------|-----|-------|
+|A|a|Á|||
+|Á|á|Á agúdu|água (pt. água)||
+|À|à|Á grávi|màĩ (pt. mãe)||
+|Ã|ã|Á nazáu|ãtxis (pt. antes)||
+|Ä|ä|Á dúplu|äcéla/aacéla (pt. àquela)||
+|E|e|È|||
+|É|é|È agúdu|||
+|È|è|È grávi|||
+|Ë|ë|È dúplu|eĩprëĩdjimèĩtu/eĩpreeĩdjimèĩtu (pt. empreendimento)||
+|I|i|Í|||
+|Í|í|Í agúdu|||
+|Ĩ|ĩ|Í nazáu|ĩdjijèĩtxi (pt. indigente)||
+|Ï|ï|Í dúplu|macïájeĩ/maciiájeĩ (pt. maquiagem)||
+|O|o|Ò|||
+|Ó|ó|Ò agúdu|agóra (pt. agora)||
+|Ò|ò|Ò grávi|òũteĩ (pt. ontem)||
+|Ö|ö|Ò dúplu|zönózi/zoonózi (pt. zoonose)||
+|U|u|Ú|||
+|Ú|ú|Ú agúdu|||
+|Ũ|ũ|Ú nazáu|ũ (pt. um)||
+|Ü|ü|Ú dúplu|acüádu/acuuádu (pt. acuado)||
+|Û|û|Ú agúdu-grávi|sû (pt. sul); azû (pt. azul)||
+
 
 ## Escopo da Altura e Tonicidade
 - o escopo da altura (agudo, neutro, grave) é semi-local
