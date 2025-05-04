@@ -57,7 +57,8 @@ INSERT INTO
 VALUES
     ('Í', 'í', 'Í agúdu', 9),
     ('Ĩ', 'ĩ', 'Í nazáu', 9),
-    ('Ï', 'ï', 'Í dúplu', 9);
+    ('Ï', 'ï', 'Í dúplu', 9),
+    ('Î', 'î', 'Í agúdu-grávi', 9);
 
 -- o
 INSERT INTO
