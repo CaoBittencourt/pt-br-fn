@@ -13,32 +13,33 @@ O Português Brasileiro Fonético conta com cinco acentos:
 Teoricamente, poderia haver um acento grave-agudo, mas esse nunca é utilizado na língua portuguesa. Então, não é incluso aqui.
 
 ## Associação de Vogais e Acentos
-Alguns acentos não costumam ou nunca se associam a algumas vogais. Por exemplo, a letra "i" nunca é grave, embora comumente seja nasalizada; a letra "u" é a única em que utilizamos o acento agudo-grave; e assim por diante, conforme a tabela abaixo:
+Alguns acentos não costumam ou nunca se associam a algumas vogais. Por exemplo, a letra "i" nunca é grave, embora comumente seja nasalizada; a letra "a" pode levar qualquer acento, exceto o agudo-grave; e assim por diante, conforme a tabela abaixo:
 
 |Maiúscula|Minúscula|Vogal|Exemplo|
 |---------|---------|-----|-------|
-|A|a|Á|||
-|Á|á|Á agúdu|água (pt. água)||
-|À|à|Á grávi|màĩ (pt. mãe)||
-|Ã|ã|Á nazáu|ãtxis (pt. antes)||
-|Ä|ä|Á dúplu|äcéla/aacéla (pt. àquela)||
-|E|e|È|||
-|É|é|È agúdu|||
-|È|è|È grávi|||
-|Ë|ë|È dúplu|eĩprëĩdjimèĩtu/eĩpreeĩdjimèĩtu (pt. empreendimento)||
-|I|i|Í|||
-|Í|í|Í agúdu|||
-|Ĩ|ĩ|Í nazáu|ĩdjijèĩtxi (pt. indigente)||
-|Ï|ï|Í dúplu|macïájeĩ/maciiájeĩ (pt. maquiagem)||
-|O|o|Ò|||
-|Ó|ó|Ò agúdu|agóra (pt. agora)||
-|Ò|ò|Ò grávi|òũteĩ (pt. ontem)||
-|Ö|ö|Ò dúplu|zönózi/zoonózi (pt. zoonose)||
-|U|u|Ú|||
-|Ú|ú|Ú agúdu|||
-|Ũ|ũ|Ú nazáu|ũ (pt. um)||
-|Ü|ü|Ú dúplu|acüádu/acuuádu (pt. acuado)||
-|Û|û|Ú agúdu-grávi|sû (pt. sul); azû (pt. azul)||
+|A|a|A|||
+|Á|á|A agudo|água (pt. água)||
+|À|à|A grave|màĩ (pt. mãe)||
+|Ã|ã|A nasal|ãtxis (pt. antes)||
+|Ä|ä|A duplo|äcéla/aacéla (pt. àquela)||
+|E|e|E|||
+|É|é|E agudo|||
+|È|è|E grave|||
+|Ë|ë|E duplo|eĩprëĩdjimèĩtu/eĩpreeĩdjimèĩtu (pt. empreendimento)||
+|I|i|I|||
+|Í|í|I agudo|||
+|Ĩ|ĩ|I nasal|ĩdjijèĩtxi (pt. indigente)||
+|Ï|ï|I duplo|macïájeĩ/maciiájeĩ (pt. maquiagem)||
+|Î|î|I agudo-grave|no dialeto carioca, îxpéʀtu (pt. esperto)|
+|O|o|O|||
+|Ó|ó|O agudo|agóra (pt. agora)||
+|Ò|ò|O grave|òũteĩ (pt. ontem)||
+|Ö|ö|O duplo|zönózi/zoonózi (pt. zoonose)||
+|U|u|U|||
+|Ú|ú|U agudo|||
+|Ũ|ũ|U nasal|ũ (pt. um)||
+|Ü|ü|U duplo|acüádu/acuuádu (pt. acuado)||
+|Û|û|U agudo-grave|sû (pt. sul); azû (pt. azul)||
 
 
 ## Escopo da Altura e Tonicidade
