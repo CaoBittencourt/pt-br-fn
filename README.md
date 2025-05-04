@@ -13,9 +13,9 @@ Obviamente, falando-se em uma reforma ortográfica de caráter *fonético*, surg
 Com isso, contempla-se aqui os seguintes dialetos brasileiros, que não podem ser mais aglutinados do que já estão:
 |Sigla|Dialeto|Abrangência|
 |-----|-------|-----------|
-|pt-br-no|Nordestino|Região Nordeste e adjacentes|
-|pt-br-ca|Carioca|Rio de Janeiro e adjacentes|
-|pt-br-br|Oficial|Todo o restante do Brasil|
+|br-no|Nordestino|Região Nordeste e adjacentes|
+|br-ca|Carioca|Rio de Janeiro e adjacentes|
+|br-br|Oficial|Todo o restante do Brasil|
 
 Outros dialetos podem ser adicionados, se for impossível conciliá-los com algum desses três dialetos principais. Mas deve-se fazê-lo com cuidado, para evitar desperdiçar esforço e fragmentar a língua portuguesa. 
 
