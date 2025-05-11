@@ -61,3 +61,13 @@ Alguns acentos não costumam ou nunca se associam a algumas vogais. Por exemplo,
 - idem para as vogais em si mesmas: há uma hierarquia vocálica
     - e.g. "i" e "u" só não são semivogais quando acentuados?
     - e.g. "u" (cuaziú) é sempre semivogal, por definição
+
+## Quando Acentuar
+Nem todas as palavras no Português Brasileiro Fonético requerem acentos. Os motivos para isso são dois:
+1. Cada vogal tem uma pronúncia padrão (em termos de altura, i.e. agudo ou grave);
+2. Há uma hierarquia tônica entre as vogais (a > e > o > i > u).
+
+Por causa disso, pode-se inferir a pronúncia de todas as palavras que respeitam a hierarquia tônica dos acentos e que não têm repetições da vogal tônica nem divergências da pronúncia padrão. Por exemplo:
+- Crer (pt. crer): o acento grave (i.e. crèr) não se faz necessário, porque só há uma única vogal e sua pronúncia é a padrão ("e" grave);
+- Hei (pt. rei): o acento grave (i.e. hèi) não se faz necessário, porque o "e" é mais forte que o "i", ceteris paribus, e a pronúncia é a padrão ("e" grave);
+- Ceiju (pt. queijo): o acento grave (i.e. cèiju) não se faz necessário, porque o "e" é mais forte que o "i", ceteris paribus, e a pronúncia é a padrão ("e" grave).
