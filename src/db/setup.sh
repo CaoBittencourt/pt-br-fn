@@ -10,7 +10,7 @@ script_path=$(
 cd $script_path
 
 # delete database
-rm ptbrfn.db
+rm brfn.db
 
 # create database
-sqlite3 ptbrfn.db <setup.sqlite
+sqlite3 brfn.db <setup.sqlite

@@ -1,26 +1,26 @@
 INSERT INTO
     alphabet (uppercase, lowercase, letter)
 VALUES
-    ('A', 'a', 'Á'), -- vowel (id = 1)
-    ('B', 'b', 'Bè'),
-    ('C', 'c', 'Cá'),
-    ('D', 'd', 'Dè'),
-    ('E', 'e', 'È'), -- vowel (id = 5)
+    ('A', 'a', 'A'), -- vowel (id = 1)
+    ('B', 'b', 'Be'),
+    ('C', 'c', 'Ca'),
+    ('D', 'd', 'De'),
+    ('E', 'e', 'E'), -- vowel (id = 5)
     ('F', 'f', 'Éfi'),
-    ('G', 'g', 'Gè'),
-    ('H', 'h', 'Há'),
-    ('I', 'i', 'Í'), -- vowel (id = 9)
+    ('G', 'g', 'Ge'),
+    ('H', 'h', 'Ha'),
+    ('I', 'i', 'I'), -- vowel (id = 9)
     ('J', 'j', 'Jóta'),
     ('L', 'l', 'Élli'),
-    ('M', 'm', 'Èmi'),
-    ('N', 'n', 'Èni'),
-    ('O', 'o', 'Ò'), -- vowel (id = 14)
-    ('P', 'p', 'Pè'),
+    ('M', 'm', 'Emi'),
+    ('N', 'n', 'Eni'),
+    ('O', 'o', 'O'), -- vowel (id = 14)
+    ('P', 'p', 'Pe'),
     ('R', 'ʀ', 'Éhi'),
     ('Г', 'r', 'Éri'),
     ('S', 's', 'Ési'),
-    ('T', 't', 'Tè'),
-    ('U', 'u', 'Ú'), -- vowel (id = 20)
-    ('V', 'v', 'Vè'),
-    ('X', 'x', 'Xís'),
-    ('Z', 'z', 'Zè');
+    ('T', 't', 'Te'),
+    ('U', 'u', 'U'), -- vowel (id = 20)
+    ('V', 'v', 'Ve'),
+    ('X', 'x', 'Xis'),
+    ('Z', 'z', 'Ze');
