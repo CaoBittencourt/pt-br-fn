@@ -1,4 +1,4 @@
-# pt-br-fn: Poʀtugèis Brazilèiru Fonétxicu (Português Brasileiro Fonético)
+# pt-br-fn: Pohrtugeis Brazilèiru Fonétxicu (Português Brasileiro Fonético)
 
 Este projeto é uma reforma ortográfica fonética da língua portuguesa-brasileira, de modo que seja escrita como é dita.
 

@@ -30,7 +30,7 @@ Alguns acentos não costumam ou nunca se associam a algumas vogais. Por exemplo,
 |Í|í|I agudo|||
 |Ĩ|ĩ|I nasal|ĩdjijèĩtxi (pt. indigente)||
 |Ï|ï|I duplo|macïájeĩ/maciiájeĩ (pt. maquiagem)||
-|Î|î|I agudo-grave|no dialeto carioca, îxpéʀtu (pt. esperto)|
+|Î|î|I agudo-grave|no dialeto carioca, îxpéhrtu (pt. esperto)|
 |O|o|O|||
 |Ó|ó|O agudo|agóra (pt. agora)||
 |Ò|ò|O grave|òũteĩ (pt. ontem)||
@@ -60,7 +60,7 @@ Alguns acentos não costumam ou nunca se associam a algumas vogais. Por exemplo,
                 - e ao analisar o som de "lan" em "abalançam", i.e. abalàãsàũ, parece, de fato, haver um "a" descendente antes do "a" nasal, porquanto não trata-se de um "a" nasal simplesmente, mas de um "a nasal descendente" 
 - idem para as vogais em si mesmas: há uma hierarquia vocálica
     - e.g. "i" e "u" só não são semivogais quando acentuados?
-    - e.g. "u" (cuaziú) é sempre semivogal, por definição
+    - a > e > o > i > u
 
 ## Quando Acentuar
 Nem todas as palavras no Português Brasileiro Fonético requerem acentos. Os motivos para isso são dois:
@@ -68,6 +68,6 @@ Nem todas as palavras no Português Brasileiro Fonético requerem acentos. Os mo
 2. Há uma hierarquia tônica entre as vogais (a > e > o > i > u).
 
 Por causa disso, pode-se inferir a pronúncia de todas as palavras que respeitam a hierarquia tônica dos acentos e que não têm repetições da vogal tônica nem divergências da pronúncia padrão. Por exemplo:
-- Crer (pt. crer): o acento grave (i.e. crèr) não se faz necessário, porque só há uma única vogal e sua pronúncia é a padrão ("e" grave);
+- Crehr (pt. crer): o acento grave (i.e. crèhr) não se faz necessário, porque só há uma única vogal e sua pronúncia é a padrão ("e" grave);
 - Hei (pt. rei): o acento grave (i.e. hèi) não se faz necessário, porque o "e" é mais forte que o "i", ceteris paribus, e a pronúncia é a padrão ("e" grave);
 - Ceiju (pt. queijo): o acento grave (i.e. cèiju) não se faz necessário, porque o "e" é mais forte que o "i", ceteris paribus, e a pronúncia é a padrão ("e" grave).

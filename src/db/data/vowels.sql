@@ -1,4 +1,4 @@
--- aeiou = 1,5,9,14,20
+-- aeiou = 1,5,9,14,19
 INSERT INTO
     _vowels (letterId)
 SELECT
@@ -52,7 +52,7 @@ WHERE
 -- INSERT INTO
 --     vowels (uppercase, lowercase, vowel, letterId)
 -- VALUES
---     ('Ú', 'ú', 'U Agudo', 20),
---     ('Ũ', 'ũ', 'U Nasal', 20),
---     ('Ü', 'ü', 'U Duplo', 20),
---     ('Û', 'û', 'U Agudo-Grave', 20);
+--     ('Ú', 'ú', 'U Agudo', 19),
+--     ('Ũ', 'ũ', 'U Nasal', 19),
+--     ('Ü', 'ü', 'U Duplo', 19),
+--     ('Û', 'û', 'U Agudo-Grave', 19);

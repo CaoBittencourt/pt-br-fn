@@ -2,12 +2,12 @@ from|to|probably_correct|comment
 |||^.*$
 ai$|ái|1|imperativo segunda pessoa do plural
 ais$|áis|1|
-ardes$|áʀdjis|1
+ardes$|áhrdjis|1
 rem$|reĩ|1
 emo$|èmu|1
 emos$|èmus|1
-armo$|áʀmu|1
-armos$|áʀmus|1
+armo$|áhrmu|1
+armos$|áhrmus|1
 ares$|áris|1
 asse$|ási|1
 asses$|ásis|1
@@ -27,6 +27,6 @@ am$|àũ|1|
 ç|s|2
 ch|x|2
 lh|lli|1
-r$|ʀ|2
+r$|hr|2
 ^r|h|2
 rr|h|2

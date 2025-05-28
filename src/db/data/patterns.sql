@@ -8,7 +8,7 @@ VALUES
     -- (1, 'ti', 'txi'), -- could have an accent mark
     (1, 'lh', 'lli'),
     (1, 'nh', 'ĩ'),
-    (1, 'r$', 'ʀ'),
+    (1, 'r$', 'hr'),
     (1, '^r', 'h'),
     (1, 'rr', 'h'),
     (1, 'ss', 's');
