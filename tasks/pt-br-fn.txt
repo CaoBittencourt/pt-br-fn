@@ -4,11 +4,12 @@ PT-BR-FN TASKS
 
 current task
 -------------------------------------
-[?] defaults => optional diacritics?
-[\] csv dictionary: words.csv
-[\] module: translate
-    - translate(pt-br) -> pt-br-fn
-    - translate(pt-br-fn) -> pt-br
+[\] ŵ ỹ ý ŷ ỳ ẃ ẁ ŵ ï ü ?
+    [\] voo, julgar, azul, sul, etc
+    [\] príncipe, princípio, etc
+    [\] não, Naum, Efraim, assim, etc
+    [\] maranhão, mamãe, etc
+[\] stressed syllables, diacritics
 
 notes
 -------------------------------------
@@ -20,11 +21,16 @@ fixes
 
 features
 -------------------------------------
+[\] csv dictionary: words.csv
+[\] module: translate
+    - translate(pt-br) -> pt-br-fn
+    - translate(pt-br-fn) -> pt-br
 [ ] module: compare
     - stats to compare both languages
 
 finished
 -------------------------------------
+[x] defaults => optional diacritics?
 [x] do silent consonants actually exist in portuguese?
     - if no, then dj (dji) => dj?
     => alphabet with 23 letters?
