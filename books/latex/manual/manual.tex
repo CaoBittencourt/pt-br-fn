@@ -1,0 +1,54 @@
+\documentclass[12pt, a4paper]{article}
+
+% \usepackage[backend=biber,style=apa]{biblatex}
+\usepackage{bilingualpages}
+
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs}
+
+
+% \addbibresource{references.bib}
+
+\input{sections/abc.tex}
+
+\title{Manuaw da llĩgwa brazileyra para luzófonus}
+\author{Cao Bittencourt}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+% \newpage
+% \
+\thispagestyle{empty}
+\newpage
+
+\begin{bilingualpages}
+    \rightpage
+    \section{Introdução}
+    
+    \section{Alfabeto}
+    \AbcPtBr
+    
+    \subsection{Letras removidas}
+    \subsection{Letras ``novas''}
+    
+    \section{Acentuação}
+    \subsection{Pronúncia padrão}
+    \subsection{Acentos}
+    
+    \leftpage
+    \section{Ĩtrodusà\~{w}}
+    
+    \section{Awfabétu}
+    \AbcBrbr
+    \subsection{Letras hemovidas}
+    \subsection{Letras ``nóvas''}
+
+    \section{Ase\~ytuasà\~w}
+    \subsection{Pronũsya padrà\~w}
+    \subsection{Ase\~ytus}
+\end{bilingualpages}
+
+\end{document}
