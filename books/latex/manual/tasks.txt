@@ -3,3 +3,16 @@
     - i.e. semivogal nasalizada => vogal precendente é sempre grave
 [?] semivogal nasalizada <=> semivogal + n
 [?] vogal nasalizada <=> vogal (grave) + n
+[?] proposta simplificadora e consistente?
+    - ão => àwn
+    - an => ã?
+    - am => ã?
+    - en => eỹ/eyn
+    - em => eỹ/eym
+    - in => ĩ/iyn
+    - im => ĩ/iym
+    - on => own
+    - om => owm
+    - un => ũ
+    - um => ũ
+    - nh => ĩ,ỹ / in',yn'
