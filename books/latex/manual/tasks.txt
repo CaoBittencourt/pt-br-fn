@@ -1,0 +1,5 @@
+[?] vogal grave + semivogal nasalizada => vogal + semivogal nasalizada
+    - regra de acentuação para diminuir a quantidade de acentos
+    - i.e. semivogal nasalizada => vogal precendente é sempre grave
+[?] semivogal nasalizada <=> semivogal + n
+[?] vogal nasalizada <=> vogal (grave) + n
