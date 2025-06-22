@@ -17,7 +17,9 @@ notes
 
 fixes
 -------------------------------------
-[ ]
+[\] seção secção sessão cessão
+    sesaŵ secsaŵ sessaŵ ssesaŵ
+    sesaŵ secsaŵ sessaŵ sesàŵ
 
 features
 -------------------------------------
