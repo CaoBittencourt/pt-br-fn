@@ -6,11 +6,13 @@ file.path(
 read.csv() -> 
 words
 
+colMeans(words) |> 
+rbind(
 colMeans(
 words - words[,1]
+)
 ) |> 
 round(2) |> 
-rbind() |> 
 write.csv(
 file = file.path(
 "models",
