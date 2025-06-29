@@ -26,15 +26,17 @@ if conda env list | grep -q "$envName"; then
 else
     echo "Creating the "\""$envName"\"" environment."
     conda env create -f $envFile
-    source activate base
-    conda activate base
 fi
 
+# activate environment
+source activate base
+conda activate
+
 # root file
-echo "./../../$script" >.root
+echo "$script/../.." >.root
 
-# environment variables
-conda activate $envName
-Rscript setup.r
+# # environment variables
+# conda activate $envName
+# Rscript setup.r
 
-rm .root
+# rm .root
