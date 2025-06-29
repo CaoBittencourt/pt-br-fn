@@ -1,0 +1,11 @@
+name: ptbrfn
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-essentials
+  - r-tidyverse
+  - r-devtools
+  - r-box
+  - r-styler
+  

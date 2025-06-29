@@ -1,0 +1,313 @@
+\documentclass[12pt, a5paper, titlepage]{article}
+
+\usepackage{pdfpages}
+% \usepackage[backend=biber,style=apa]{biblatex}
+\usepackage{amsmath}
+\usepackage{tipa}
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs}
+\usepackage[portuguese]{babel}
+
+
+% \addbibresource{references.bib}
+\input{tables/abc.tex}
+\input{tables/vowels.tex}
+\input{tables/diacritics.tex}
+\input{tables/digraphs.tex}
+
+\title{Manual da língua brasileira para lusófonos}
+\author{Cao Bittencourt}
+\date{}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+\newpage \
+\thispagestyle{empty}
+
+\newpage
+\section{Introdução}
+
+\newpage
+\section{Alfabeto}\label{pt.section.abc}
+Comecemos pelo mais básico, o alfabeto:
+
+\PtTableAbc
+Conforme as tabelas, o novo alfabeto brasileiro (à esquerda) tem vinte e quatro letras, enquanto o antigo alfabeto português-brasileiro (à direita) tem vinte e seis. As letras removidas foram o ``k" e o ``q", porque são redundantes. De fato, a primeira delas já era até na antiguidade clássica criticada pelos gramáticos romanos, que achavam-na desnecessária. A letra ``q", por sua vez, foi uma invenção desses mesmos gramáticos para diferenciar o som do ``u" vogal e do ``u" semivogal (cf. as palavras \textit{qui} e \textit{cui}). Nós, no entanto, não temos por que fazer essa distinção, pois a nossa língua tem mais semivogais do que o latim e, além disso, melhores métodos para explicitá-las (ver adiante). Assim sendo, removemos do alfabeto aquela letra, desprezada pelos romanos, e, ironicamente, também essa, que inventaram.
+
+Não há novas letras no alfabeto, porém muitas das que permaneceram passam a ter
+novas funções; e, mais importante, uma única função para cada. A letra ``c'',
+por exemplo, para continuar a discussão acima, tem agora sempre o som de ``k'',
+nunca de ``s''; na verdade, foi até renomeada para ``Cá'' [ka], a fim de deixar
+isso mais claro. Pelo mesmo motivo, o ``Cê-cedilha'', ``ç'', é substituído por
+``s''. E, com isso, acaba-se a ambiguidade entre as consoantes oclusiva velar
+surda [k] e a fricativa alveolar surda [s].
+
+Analogamente, a letra ``g'' representa apenas a consoante oclusiva velar sonora
+    [g] e, como o ``c'', foi renomeada para ``Gá'' [ga], uma vez que o nome ``Gê''
+[\textyogh e], durante séculos, era pronunciado com a fricativa pós-alveolar
+sonora [\textyogh] (i.e. o som da letra ``j'' em português). Assim, por
+exemplo, a palavra ``garagem'', antes escrita com dois ``g'', é, agora
+explicitamente, ``garáje\~y''.
+
+Seguindo a ordem alfabética, o antigo ``Agá'', ``h'', deixa de ser uma letra
+mal utilizada, essencialmente inútil, e passa a ter o som fricativo glotal
+surdo [h], ou ``Erre" gutural, como é nos demais idiomas da Europa (e.g. nas
+palavras \textit{home}, \textit{heim} e \textit{hjem}, ou seja, ``lar'' em
+inglês, alemão e norueguês, respectivamente). Isso significa que o ``r'' é
+reservado para o tepe alveolar [\textfishhookr] (e.g. em ``para''); e todas as
+palavras que começavam com ``r'', começam com ``h''; e, pela mesma via, aquelas
+que tinham dois ``r'', escreve-se também com ``h''. Por fim, remove-se todos os
+``h" mudos (e.g. ``hoje''); e, como nas outras letras, renomeia-se o ``Agá''
+para ``Erre'' [\textepsilon hi] e o ``Erre'' para ``Eri'' [\textepsilon
+\textfishhookr i], sinalizando suas novas funções.
+
+Ao contrário das supracitadas línguas germânicas, entretanto, o ``j'' conserva
+a pronúncia que recebemos dos franceses, não sendo utilizado para o som de
+``i'' semivogal (como vimos em \textit{hjem}, acima). Esse som, cujo fonema
+denota-se por [j], pertence ao ``y'', que, de maneira análoga ao ``h'', antes
+subutilizado, é agora uma letra muito importante, tendo em vista que o
+brasileiro é um idioma repleto de semivogais.
+
+Assim, portanto, a indicação das letras semivogais não é nem negligenciada,
+como vinha sendo desde o Acordo Ortográfico de 1990, tampouco se dá pelo
+antiquado ``Trema''. Em contraposição, a nova língua brasileira designa letras
+específicas para esse fim, quais sejam, o ``y'', chamado ``Quasi-i'', e o
+``w'', ou ``Quasi-u''. Não é necessário mais letras do que essas, porque apenas
+o ``i'' e o ``u'' são semivogais, enquanto o ``a'', o ``e'' e o ``o'' são
+sempre vogais (i.e. elas ``quebram'' a sílaba e não aglutinam-se em ditongos e
+tritongos).
+
+As semivogais, no entanto, também podem substituir (aparentes) consoantes. É o que verificamos no ``l'' pós-vocálico, que no português brasileiro tem o som do ``u'' semivogal [\textipa{U}], mas não o do ``l'' propriamente dito, isto é, a aproximante lateral alveolar [l] (e.g. no alemão, \textit{hilfe} [\textprimstress h\textsci lf\textschwa], ou no português europeu, ``fiel'' [fi\textprimstress\textepsilon l], com ``l'' pronunciado, cf. no português brasileiro, [fi\textprimstress \texttoptiebar{\textepsilon\textipa{U}}], onde não tem som consonantal). Idem nos dígrafos ``nh'' e ``lh'' (vide o Capítulo \ref{pt.section.digraphs}).
+
+Outro exemplo é o do ``n'' e o do ``m'' pós-vocálicos, que dão lugar ao ``y'' e ``w'' acentuados com o acento nasal, ``\textasciitilde'', devendo-se à característica distintiva do brasileiro de que vogais seguidas de ``n'' e ``m'' (com uma consoante depois) sempre produzem um som semivocálico residual, que não é perfeitamente capturado por essas duas consoantes, mas sim por aquelas semivogais nasalizadas (viz. ``\~y'', ``\~w'').
+
+Em praticamente todos os outros idiomas escritos com o alfabeto latino, porém,
+essa ``semivogal residual'' não acontece, então é correto utilizarem o ``n'' e
+o ``m'' pós-vocálicos (e.g. [exemplos]). Mas, como o nosso objetivo é que o
+\textit{brasileiro} seja consistente, devemos substituí-los por semivogais
+nasalizadas.
+
+Finalmente, as duas últimas letras, ``x'' e ``z'' representam, cada, um único
+som e não mais se confundem entre si nem com o ``s'', ``c'', etc.
+Especificamente, o ``x'' tem, agora, sempre o som da fricativa pós-alveolar
+surda [\textesh] (antigo ``ch''). Já o fonema [z] é grafado pelo ``z'',
+inclusive nas palavras com ``s'' intervocálico (e.g. ``casa''); e não há mais
+``z'' no final de nenhuma palavra. Desse modo, todas as letras no alfabeto têm
+sua própria função.
+
+\section{Vogais}
+Como aludido acima, as vogais na língua brasileira são ``a'', ``e'', ``i'',
+``o'', ``u''; e as semivogais, ``y'' e ``w'' (``Quasi-i'' e ``Quasi-u''). As
+vogais formam hiátos se adjacentes, mas as semivogais aglutinam-se. Por exemplo, nos encontros vocálicos
+\\
+\par ``(em pt-br) palavra com vogal + y'' {[IPA]},
+\par ``(em pt-br) palavra com vogal + w'' {[IPA]},
+\par ``(em pt-br) palavra com y + vogal'' {[IPA]},
+\par ``(em pt-br) palavra com w + vogal'' {[IPA]},
+\par ``(em pt-br) palavra com y + vogal + w'' {[IPA]},
+\par ``(em pt-br) palavra com y + vogal + y'' {[IPA]},
+\par ``(em pt-br) palavra com w + vogal + w'' {[IPA]},
+\par ``(em pt-br) palavra com w + vogal + y'' {[IPA]},
+\\
+\\
+as semivogais e as vogais são uma única sílaba; já nos hiatos
+\\
+\par ``(em pt-br) exemplo de hiato'' [IPA],
+\par ``(em pt-br) exemplo de hiato'' [IPA],
+\par ``(em pt-br) exemplo de hiato'' [IPA],
+\par ``(em pt-br) exemplo de hiato'' [IPA],
+\\
+\\
+as vogais, mesmo adjacentes, não se aglutinam.
+
+Ademais, porque visamos a consistência fonética (i.e. que se escreva como se
+diz), precisamos distinguir não só entre vogais e semivogais, mas ainda entre
+as agudas, graves e nasais. Denotá-las explicitamente exigiria ou uma letra
+para cada som (como é no Alfabeto Fonético Internacional) ou algum sistema de
+acentuação. A primeira opção não seria nem um pouco prática; a segunda, no
+entanto, também pode tornar-se trabalhosa se não implementada direito.
+
+Em particular, para evitar excessivos acentos, devemos convencionar uma
+``pronúncia padrão'' para cada vogal (viz. a mais frequente), e indicar com
+acentos apenas quando a pronúncia for diferente.
+
+A tabela abaixo define a pronúncia padrão das vogais e semivogais brasileiras:
+
+\PtTableVowels
+
+Como pode-se perceber, os fonemas vocálicos são os mesmos do português
+brasileiro tradicional. Então, nesse sentido, excetuando a adição das semivogais, não há
+nada de novo. As pronúncias alternativas, porém, não são as mesmas, conquanto
+sejam mais acuradas do que no português. Expliquemo-las na seguinte seção.
+
+\subsection{Acentos}
+Para entender as pronúncias alternativas das vogais e semivogais brasileiras,
+convém definirmos, primeiro, os acentos que as indicam:
+
+\PtTableDiacritics
+
+As funções dos acentos na Tabela \ref{pt.table.diacritics} são variadas. Mas,
+de maneira geral, servem para: 1) explicitar quando a pronúncia não é a padrão;
+2) indicar a sílaba tônica quando não for autoevidente; 3) diferenciar palavras
+homófonas\footnote{Sendo muito simples a função de diferenciar palavras de mesmo som, opta-se por não explicá-la em detalhes, para não interromper o fluxo deste texto. Porém, a título de exemplo, compare-se o verbo ``há'' (agora escrito ``á'') e o artigo ou a preposição ``a''. Fica claro, aqui, que o acento é o único meio de diferenciar essas homófonas.}.
+
+\subsubsection{Altura e acentuação}
+A primeira dessas funções é realizada por todos os acentos, exceto a crase.
+Assim, então, quando o acento é agudo, a pronúncia é aguda, mesmo que a
+pronúncia padrão da vogal em questão seja grave; e inversamente se o acento for
+grave.
+
+O acento nasal também serve para indicar uma pronúncia alternativa. Entretanto,
+nisso difere bastante do que era antes. Na língua brasileira, o acento
+``\textasciitilde'', não mais chamado ``Til'', faz com que a vogal seja
+pronunciada como seria se fosse seguida de ``n'' ou ``m'', porém de uma maneira
+inteiramente vocálica, ``torcendo'' o som com o nariz, sem a obstrução física
+que caracteriza as consoantes. Isto é, não trata-se de uma vogal ``tendendo''
+ao ``n'' ou ``m'', como é no espanhol ou no italiano, por exemplo, mas daquele
+som nasal \textit{não consonantal}, que é marca do português brasileiro (e.g. [exemplo] [ipa]).
+
+Acrescenta-se, ainda, que uma vogal nasalizada pode ser tanto aguda quanto
+grave (cf. \textit{adelante} em espanhol e ``adiante'' em português). Em
+teoria, isso requeriria acentos mais específicos, mas, convenientemente, a
+pronúncia aguda ou grave nas vogais nasalizadas é consistente na língua
+brasileira: o ``a'' nasal é sempre grave, enquanto o ``i'', o ``y'', o ``u'' e o ``w'' nasais.
+
+Já o ``e'' e o ``o'' nunca são
+nasalizados diretamente, porque o som que produziriam, de acordo com a nova
+definição do acento nasal, não ocorre no português brasileiro. Dito isso, se eram seguidos de ``n'' ou ``m'', passam a acompanhar ``\~y'' e ``\~w''
+(de novo, por causa da semivogal residual implícita nesses dígrafos).
+
+Por fim, sendo evidente que as vogais ``a'', ``e'' e ``o'', seguidas de semivogal nasalizada são sempre graves (e.g. os dígrafos ``ão'', ``em'' e ``om'' em português), convenciona-se, para diminuir a quantidade de acentos, que nelas o ``\textasciigrave'' não se faz necessário.
+
+\subsubsection{Tonicidade e acentuação}
+Tendo entendido isso, passamos para a segunda função dos acentos, qual seja, a indicação a sílaba tônica. Aqui, de novo, não difere-se muito do português tradicional.
+
+Temos na língua brasileira apenas palavras oxítonas, paroxítonas e proparoxítonas, cujas sílabas tônicas são, respectivamente, a última, a penúltima e a antepenúltima.
+
+Dentre essas as mais frequentes são as paroxítonas. E, assim sendo, convenciona-se, tudo o mais constante, que toda palavra de mais de uma sílaba seja paroxítona e não necessita de acento.
+
+Já as proparoxítonas são, de longe, as mais raras e, por esse motivo, permanecem sempre acentuadas.
+
+As oxítonas, por sua vez, são relativamente comuns, mas nem sempre requerem acento; isso porque há alguns padrões confiáveis em nossa língua, que nos permitem identificá-las.
+
+Desse modo, se não indicado explicitamente, são oxítonas (e não acentuadas) todas as palavras terminadas em: ``hr'', ``e'', ``o'', ``y'', ``w'', ``o\~y'', ``o\~w'' (e, igualmente, os plurais, acrescidos de ``s'' no final).
+
+O último tópico no âmbito da tonicidade refere-se à ``hierarquia'' dos acentos, que é o método com que se identifica a sílaba tônica em palavras que têm múltiplos diacríticos.
+
+Mais uma vez, a regra é bem simples: o acento nasal forte é a sílaba tônica sempre que aparecer em uma palavra; depois, o acento mais forte é o agudo; e, depois, o grave. O acento nasal (fraco), embora possa coincidir com a penúltima sílaba em paroxítonas, não é, por si só, tônico. E, analogamente, a crase é um diacrítico átono, pois somente consiste na junção de um ``a'' preposição com um ``a'' artigo\footnote{Motivo pelo qual é grafada com ``\textasciidieresis'', sendo também, alternativamente substituída por dois ``a'', se o dispositivo em que se estiver escrevendo não disponibilizar o ``acento duplo''.}, e não modifica nem a pronúncia nem a tonicidade do ``a'' que acentua.
+
+\subsection{Resumo dos fonemas vocálicos}
+Agora que explicamos a pronúncia de todas as vogais e semivogais brasileiras, podemos resumi-las citando alguns exemplos:
+\newline
+\par [não precisa de 1 exemplo por fonema vocálico]
+\par ``palavra com a [IPA],
+\par ``palavra com á [IPA],
+\par ``palavra com à [IPA],
+\par ``palavra com ã [IPA],
+\par ``palavra com â [IPA],
+\par ``palavra com ä [IPA],
+\par ``palavra com e [IPA],
+\par ``palavra com é [IPA],
+\par ``palavra com è [IPA],
+\par ``palavra com i [IPA],
+\par ``palavra com í [IPA],
+\par ``palavra com ĩ [IPA],
+\par ``palavra com î [IPA],
+\par ``palavra com o [IPA],
+\par ``palavra com ó [IPA],
+\par ``palavra com ò [IPA],
+\par ``palavra com u [IPA],
+\par ``palavra com ú [IPA],
+\par ``palavra com ũ [IPA],
+\par ``palavra com û [IPA],
+\par ``palavra com y [IPA],
+\par ``palavra com \~y [IPA],
+\par ``palavra com w [IPA],
+\par ``palavra com \~w [IPA].
+\newline
+
+E esses são todos os sons vocálicos no português brasileiro fonético.
+
+% \subsection{Lei da gravidade vocálica}
+% e $\rightarrow$ i $\rightarrow$ y
+
+% o $\rightarrow$ u $\rightarrow$ w
+
+\section{Dígrafos}\label{pt.section.digraphs}
+Enfim, após a apresentação das vogais, só resta tratar brevemente dos dígrafos consonantais\footnote{
+    Novamente, os antigos dígrafos vocálicos (viz. vogal seguida de ``n'' ou ``m''), foram substituídos por vogais nasalizadas, ou vogais seguidas de ``\~y'' ou ``\~w'', quando resultam em semivogal residual, como explicado no capítulo anterior.
+}:
+
+\PtTableDigraphs
+
+A tabela acima compara os dígrafos no português com sua nova grafia na língua brasileira. Cita-se um exemplo de cada, junto à transcrição para o Alfabeto Fonético Internacional. Comentemo-los abaixo.
+
+Primeiramente, os dígrafos referentes à consoante fricativa alveolar surda [s] (em português, ``ss'', ``sc'', ``sç'', ``xs'', ``xc'') deixam de sê-lo e são substituídos diretamente pela letra ``s''.
+
+Seguimos com os dígrafos da ``consoante'' aproximante labiovelar [w] (viz. ``gu'', ``qu''), que, antes ambíguos (cf. na tabela,   ``aguenta'' e ``guerra''), sendo ora pronunciados, ora mudos, agora não são mais utilizados. No português brasileiro fonético, não há vogais mudas; e todas as semivogais são explícitas. Portanto, esses dígrafos não têm mais sentido: se o ``u'' era mudo, é removido; e, se era semivogal, passa a ser ``Quasi-u''\footnote{
+    Isso significa que, estritamente falando, o ``Quasi-u'' representa dois fonemas: a vogal quase posterior quase fechada arredondada [\textipa{U}] e
+    a semiconsoante (ou semivogal) aproximante labiovelar [w] (podendo, ainda, ser nasalizado).
+}.
+
+Quanto aos dígrafos da aproximante palatal [j], destaca-se, como já reconhecido pelos fonólogos (e.g. [citar]), que a língua brasileira não dispõe de um som aproximante lateral palatal [\textturny] propriamente dito. E idem para a consoante nasal palatal [\textltailn], isto é, o ``nh'' no português europeu, o ``gn'' em francês e italiano e o ``ñ'' no espanhol (cf.
+montanha, \textit{montagne}, \textit{montagna}, \textit{montaña}). A diferença é sutil, mas notável.
+
+No Brasil, a nossa pronúncia é muito mais vocálica: aqui, o que temos, no lugar dessas consoantes, são a aproximante lateral alveolo-palatal [\textsubbar{l}\textsuperscript{j}] e a aproximante nasal palatal [\~\j], respectivamente. Em outras palavras, o que em Portugal pronuncia-se com consoante, nós pronunciamos com semivogal.
+
+Assim, por exemplo, o que causa o ``estalo'' na palavra ``senha'' [\textprimstress se\~\j a] (cf. [\textprimstress se\textltailn\textturna] no português europeu) é que o ``a'' se diz logo após a semivogal nasalizada [\~\j]: ou seja, o ``estalo'' é residual. E, da mesma maneira, na palavra ``batalha'' [ba\textprimstress ta{\textsubbar{l}\textsuperscript{j}}a] (cf. [b\textturna\textprimstress ta\textturny\textturna] no português europeu), há claramente um ``Quasi-i'' residual.
+
+A grafia adotada para esse último fonema no português brasileiro fonético é ``lly'', sendo semelhante às línguas espanhola e francesa, que escrevem a aproximante lateral palatal com o dígrafo ``ll'' (e.g. [exemplo], [exemplo]).
+
+As razões para essa escolha são duas: 1) como já dito na seção do alfabeto, a letra ``h'' passou a ter o som do ``Erre'' gutural (i.e. a fricativa glotal surda) e, portanto, agora substituindo o ``r'' no início de palavras e os dois ``r'' intervocálicos, não pode mais ser (mal) utilizada como um ``dígrafo coringa''\footnote{
+    Idem para o ``ch'' e o ``x'' (vide o Capítulo \ref{pt.section.abc}).
+}; 2) porém, mais importantemente, o ``lly'' é, de fato, uma perfeita representação do fonema [\textsubbar{l}\textsuperscript{j}], como explicaremos.
+
+Para entender por que se escolheu o ``lly'' para grafar o [\textsubbar{l}\textsuperscript{j}], convém contrastarmos os sotaques nordestinos com os demais do Brasil.
+
+Tomemos, então, a frase ``Minha filha, hoje é dia de ligar para tua tia.'', que contém quase todas as divergências desse dialeto; e comparemos sua notação fonética com a da maior parte dos sotaques brasileiros:
+\\
+\par[\textprimstress mĩa
+    \textprimstress fi\textsubbar{l}\textsuperscript{j}a,
+    \textprimstress\textopeno \textyogh i
+    \textepsilon \
+    \textprimstress dia
+    di
+    li\textprimstress gah
+    \textprimstress pa\textfishhookr a
+    \textprimstress tua
+    \textprimstress tia.];
+\par[\textprimstress mĩa
+    \textprimstress fi\textsubbar{l}\textsuperscript{j}a,
+    \textprimstress o\textyogh i
+    \textepsilon \
+    \textprimstress \texttoptiebar{d\textyogh}ia
+    \texttoptiebar{d\textyogh}i
+    \textsubbar{l}\textsuperscript{j}i\textprimstress gah
+    \textprimstress pa\textfishhookr a
+    \textprimstress tua
+    \textprimstress \texttoptiebar{t\textesh}ia.].
+\\
+
+Aqui, fica claro que no sotaque nordestino, a pronúncia do ``l'' é consistente e o fonema [\textsubbar{l}\textsuperscript{j}] só é utilizado para o ``lh''. Entretanto, é evidente também que, no resto do Brasil, o ``lh'' tem, na verdade, o mesmo som do ``li'' (cf. as palavras ``ilha'' [\textprimstress i\textsubbar{l}\textsuperscript{j}a] e ``família'' [fa\textprimstress mi\textsubbar{l}\textsuperscript{j}a], e compara-se ainda com o italiano, \textit{famiglia} [fa\textprimstress mi\textturny a], onde até escreve-se explicitamente a aproximante lateral palatal com o dígrafo ``gl'').
+
+Os nordestinos, por assim dizer, recitam o silabário corretamente, enquanto os demais trocam o ``li'' por ``lhi'' (i.e. falando ``la'' [la], ``le'' [le], ``lhi'' [\textsubbar{l}\textsuperscript{j}i], ``lo'' [lo], ``lu'' [lu]). E o mesmo vale para o ``di'' e o ``ti'' (pronunciados ``dji'' [\texttoptiebar{d\textyogh}i] e ``txi'' [\texttoptiebar{t\textesh}i] pela grande maioria dos brasileiros). Com isso, é certo que o ``l'', o ``d'' e o ``t'', seguidos de ``i'' ou ``y'' devem ser novos dígrafos, exceto no brasileiro nordestino fonético.
+
+Mas, afinal, em que isso nos ajuda com o ``lh''? Ora, eis que o dialeto do nordeste tem, de fato, a chave para escrevermos o [\textsubbar{l}\textsuperscript{j}] sem ``lh''. A fim de pronunciar esse fonema, basta fazer como se fosse falar um ``li'' ``de baiano'' e, rapidamente, interrompê-lo no meio com mais um ``li'': o som resultante é precisamente o ``lhi'', incluindo a semivogal [j] residual; porquanto, não é mera convenção que dois ``l'' e um ``i'' formam um ``lh''.
+
+[ainda na discussão sobre sotaques, ``hr'']
+
+[explicar novos dígrafos]
+
+
+\section{Exemplos}
+ [pseudo-conclusão]
+
+Concluímos esse manual com alguns exemplos.
+
+\newpage
+\section*{Referências}
+
+\end{document}

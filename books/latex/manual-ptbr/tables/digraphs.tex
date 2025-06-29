@@ -1,0 +1,33 @@
+\newcommand{\PtTableDigraphs}{
+    \begin{longtblr}[
+        caption = {Dígrafos},
+        note{1} = {Dependendo se o ``i" for semivogal ou não.},
+        note{2} = {Isto é, o ``r'' seguido de vogal e consoante.}
+        ]{
+        colspec = {X[0, c, m]X[0, c, m]X[1, c, m]},
+        width = \linewidth,
+        rowhead = 1,
+        rowfoot = 0
+        }
+        Antiga Grafia              & Nova Grafia           & IPA                           & Exemplo     \\
+        \toprule
+        ss                         & s                     & [s]                           &             \\
+        sc                         & s                     & [s]                           &             \\
+        sç                         & s                     & [s]                           &             \\
+        xs                         & s                     & [s]                           &             \\
+        xc                         & s                     & [s]                           &             \\
+        qu                         & cw                    & [kw]                          & qualidade   \\
+        qu                         & c                     & [k]                           & queijo      \\
+        gu                         & gw                    & [gw]                          & aguenta     \\
+        gu                         & g                     & [g]                           & guerra      \\
+        lh                         & lly                   & [?]                           &             \\
+        nh                         & \~y, ĩ, î\TblrNote{1} & [\~j]                         &             \\
+        ch                         & x                     & [\textesh]                    &             \\
+        rr                         & h                     & [h]                           &             \\
+        r pós-vocálico\TblrNote{2} & hr                    & [], [], []\TblrNote{3}        & restaurador \\
+        di                         & dji                   & [\texttoptiebar{d\textyogh}i] &             \\
+        ti                         & txi                   & [\texttoptiebar{t\textesh}i]  &             \\
+        li                         & lli, lly\TblrNote{1}  & [?i]                          &             \\
+        \bottomrule
+    \end{longtblr}
+}
