@@ -30,13 +30,12 @@ fi
 
 # activate environment
 source activate base
-conda activate
+conda activate $envName
 
 # root file
 echo "$script/../.." >.root
 
-# # environment variables
-# conda activate $envName
-# Rscript setup.r
+# environment variables
+Rscript setup.r
 
-# rm .root
+rm .root
