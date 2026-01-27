@@ -1,7 +1,8 @@
-\documentclass[12pt, a4paper, titlepage]{article}
+\documentclass[11pt, a4paper, titlepage]{article}
 
-\usepackage[left=1cm,right=1cm,top=1cm,bottom=1cm]{geometry}
 \usepackage{pdfpages}
+% \usepackage[backend=biber,style=apa]{biblatex}
+% \usepackage{amsmath}
 \usepackage{tipa}
 \usepackage{tabularray}
 \UseTblrLibrary{booktabs}
@@ -10,55 +11,61 @@
 
 
 \begin{document}
-\addtocounter{rownum}{-1}
 \begin{longtblr}[
     caption = {Palavras importantes e \textit{edge cases}},
-    note{1} = {todas vogais graves explícitas, semivogais nasalizadas, ``\textasciicircum'' = acento nasal forte.},
-    note{2} = {vogais graves implícitas, semivogais nasalizadas, ``\textasciicircum'' = acento nasal forte.},
-    note{3} = {todas vogais graves explícitas, semivogais + ``n'' ou ``m'', ``\textasciicircum'' = acento grave forte.},
-    note{4} = {vogais graves implícitas, semivogais + ``n'' ou ``m'', ``\textasciicircum'' = acento grave forte.}
+    note{1} = {Semivogais objetivamente explícitas (y, w vs i, u)},
+    note{2} = {Semivogais relativamente explícitas (i, u vs ï, ü)},
+    note{3} = {Semivogais relativamente explícitas (i, u vs ii, uu, ï, ü)}
     ]{
-    colspec = {X[c, m]X[c, m]X[c, m]X[c, m]X[c, m]X[c, m]},
+    colspec = {X[l, m]X[l, m]X[l, m]X[l, m]X[l, m]X[l, m]},
     width = \linewidth,
     rowhead = 1,
     rowfoot = 0,
     row{1} = {font = \bfseries}
     }
-    \textbf{pt-br}     & \textbf{br-br}\TblrNote{1}     & \textbf{br-br}\TblrNote{2}      & \textbf{br-br}\TblrNote{3}      & \textbf{br-br}\TblrNote{4}      \\
+    \textbf{Pt-BR}     & \textbf{Br-BR}\TblrNote{1}     & \textbf{Br-BR}\TblrNote{2}      & \textbf{Br-BR}\TblrNote{3}      \\
     \toprule
-    senhor         (6) & se\~yohr                  (7)  & se\~yohr                   (7)  & se\~yohr                   (7)  & se\~yohr                   (7)  \\
-    senhora        (7) & se\~yóra                  (8)  & se\~yóra                   (8)  & se\~yóra                   (8)  & se\~yóra                   (8)  \\
-    rainha         (6) & haĩa                      (5)  & haĩa                       (5)  & haĩa                       (5)  & haĩa                       (5)  \\
-    príncipe       (9) & prîsipi                   (9)  & prîsipi                    (9)  & príynsipi                  (10) & príynsipi                  (10) \\
-    princípio     (10) & prĩsípiw                  (10) & prĩsípiw                   (10) & priynsípiw                 (11) & priynsípiw                 (11) \\
-    voo            (3) & vowu                      (4)  & vowu                       (4)  & vowu                       (4)  & vowu                       (4)  \\
-    não            (4) & nà\~w                     (6)  & na\~w                      (4)  & nàwn                       (6)  & nawm                       (4)  \\
-    nau            (3) & naw                       (3)  & naw                        (3)  & naw                        (3)  & naw                        (3)  \\
-    Naum           (4) & Naû                       (5)  & Naû                        (5)  & Naúm                       (5)  & Naúm                       (5)  \\
-    Efraim         (6) & Efraî                     (7)  & Efraî                      (7)  & Efraiyn                    (7)  & Efraiyn                    (7)  \\
-    jardim         (6) & jahrdjî                   (9)  & jahrdjî                    (9)  & jahrdjiyn                  (9)  & jahrdjiyn                  (9)  \\
-    assim          (5) & asî                       (5)  & asî                        (5)  & asiyn                      (5)  & asiyn                      (5)  \\
-    Maranhão       (9) & Marà\~yà\~w               (13) & Mara\~ya\~w                (9)  & Marà\~yâwm               (13)   & Mara\~yawm                 (9)  \\
-    santa          (5) & sãta                      (5)  & sãta                       (5)  & sànta                      (7)  & santa                      (5)  \\
-    mãe            (4) & mà\~y                     (6)  & ma\~y                      (4)  & màyn                       (6)  & mayn                       (4)  \\
-    mamãe          (6) & màmà\~y                   (10) & màmà\~y                    (10) & màmâyn                   (10)   & màmâyn                     (10) \\
-    mamão          (6) & mamà\~w                   (8)  & mama\~w                    (6)  & mamàwm                     (8)  & mamawm                     (6)  \\
-    índia          (6) & ĩdjya                     (6)  & ĩdjya                      (6)  & iyndjya                    (7)  & iyndjya                    (7)  \\
-    indiana        (7) & ĩdjiàna                   (10) & ĩdjiàna                    (10) & iyndjiàna                  (11) & iyndjiàna                  (11) \\
-    fofinha        (7) & fofĩa                     (6)  & fofĩa                      (6)  & fofĩa                      (6)  & fofĩa                      (6)  \\
-    antes          (5) & ãtxis                     (6)  & ãtxis                      (6)  & àntxis                     (8)  & antxis                     (6)  \\
-    pão            (4) & pà\~w                     (6)  & pa\~w                      (4)  & pàwm                       (6)  & pawm                       (4)  \\
-    pau            (3) & paw                       (3)  & paw                        (3)  & paw                        (3)  & paw                        (3)  \\
-    abalançam      (9) & abalâsà\~w                (13) & abalâsa\~w                 (11) & abalànsàwm                 (14) & abalànsawm                 (12) \\
-    Estevão        (8) & Estèvà\~w                 (12) & Estèva\~w                  (10) & Estêvàwm                   (12) & Estèvawm                   (10) \\
-    hiato          (5) & iatu                      (4)  & iatu                       (4)  & iatu                       (4)  & iatu                       (4)  \\
-    então          (6) & e\~ytà\~w                 (9)  & e\~yta\~w                  (7)  & eyntàwn                    (9)  & eyntawn                    (7)  \\
-    sejam          (5) & sèjà\~w                   (10) & sèja\~w                    (8)  & sèjawm                     (8)  & sèjawm                     (8)  \\
-    seção          (6) & sesà\~w                   (8)  & sesa\~w                    (6)  & sesàwm                     (8)  & sesawm                     (6)  \\
-    secção         (7) & secsà\~w                  (9)  & secsa\~w                   (7)  & secsàwm                    (9)  & secsawm                    (7)  \\
-    sessão         (7) & sessà\~w                  (9)  & sessa\~w                   (7)  & sessàwm                    (9)  & sessawm                    (7)  \\
-    cessão         (7) & sesà\~w                   (8)  & sesà\~w                    (8)  & sesàwm                     (8)  & sesàwm                     (8)  \\
+    senhor        & se\~yohr & seĩohr & seĩohr \\
+    senhora       & se\~yora & seĩora & seĩora \\
+    rei           & hey & hei & hei \\
+    rainha        & haĩa & haîa (ha\textipa{\~{\"{\i}}}a) & haĩĩa? \\
+    princípio     & prĩsipyu & prĩsipiü & prĩsipiuu \\
+    príncipe      & prîsipi & prîsipi & -- \\
+    voo           & vowu & vouü & --\\
+    bateu         & batew & bateu & bateu \\
+    Batel         & Batéw & Batéu & Batéu \\
+    Israel        & Ishaéw & Ishaéu & Ishaéu \\
+    não           & na\~w & naũ & naũ \\
+    nau           & naw & nau & nau \\
+    Naum          & Naû & Naû & -- \\
+    Efraim        & Efraî & Efraî & -- \\
+    jardim        & jahrdî & jahrdî & -- \\
+    assim         & asî & asî & -- \\
+    Suíça         & Suisa & Süïsa & Suuiisa, Süiisa, Suuïsa \\
+    Maranhão      & Mara\~yà\~w & Maraĩàũ & Maraĩàũ \\
+    santa         & sãta & sãta & sãta \\
+    mãe           & ma\~y & maĩ & maĩ \\
+    mamãe         & mamà\~y & mamàĩ & mamàĩ \\
+    mamão         & mamà\~w & mamàũ & mamàũ \\
+    índia         & ĩdjya & ĩdjia & ĩdjia \\
+    indiana       & ĩdjiana & ĩdjïana & ĩdjiiana \\
+    fofinha       & fofĩa & fofîa & fofĩĩa? \\
+    antes         & ãtxis & ãtxis & ãtxis \\
+    bolinho       & bollĩu & bollîü & bollĩĩuu ? \\
+    vinho         & vĩu & vîü (vîu?) & vĩĩuu \\
+    pão           & pa\~w & paũ & paũ \\
+    pau           & paw & pau & pau \\
+    abalançam     & abalãsa\~w & abalãsaũ & abalãsaũ \\
+    Estêvão       & Isteva\~w & Istevaũ & Istevaũ \\
+    hiato         & iatu & ïatu & iiatu \\
+    então         & e\~ytà\~w & eĩtàũ & eĩtàũ \\
+    sejam         & seja\~w & sejaũ & sejaũ \\
+    cessam        & sesa\~w & sesaũ & sesaũ \\
+    cessão        & sesà\~w & sesàũ & sesàũ \\
+    secção        & secsà\~w & secsàũ & secsàũ \\
+    sessão        & sessà\~w & sessàũ & sessàũ \\
+    seção         & ssesà\~w & ssesàũ & ssesàũ \\
     \bottomrule
-    5.86 (+0)          & 7.32 (+1.46)                   & 6.61 (+0.75)                    & 7.57 (+1.71)                    & 6.79 (+0.93)                    \\
 \end{longtblr}
+
 \end{document}

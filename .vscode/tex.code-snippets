@@ -1,0 +1,41 @@
+{
+	"Latex File Skeleton": {
+		// "scope": "tex",
+		"prefix": "latex",
+		"body": [
+			"\\documentclass[12pt, a5paper, titlepage]{article}",
+			"",
+			"\\usepackage{pdfpages}",
+			"% \\usepackage[backend=biber,style=apa]{biblatex}",
+			"% \\usepackage{amsmath}",
+			"\\usepackage{tipa}",
+			"% \\usepackage{tabularray}",
+			"% % \\UseTblrLibrary{booktabs}",
+			"\\usepackage[portuguese]{babel}",
+			"\\setlength{\\emergencystretch}{20pt}",
+			"",
+			"",
+			"% \\input{file/path/file.tex}",
+			"",
+			"\\title{$1}",
+			"\\author{Cao Bittencourt}",
+			"\\date{}",
+			"",
+			"\\begin{document}",
+			"\\maketitle",
+			"\\thispagestyle{empty}",
+			"",
+			"\\newpage \\",
+			"\\thispagestyle{empty}",
+			"",
+			"\\newpage",
+			"",
+			"\\section{dsds}",
+			"lalala",
+			"",
+			"\\end{document}",
+			""
+		],
+		"description": "Latex File Skeleton"
+	}
+}
