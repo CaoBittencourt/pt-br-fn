@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1769546225.9488 "/home/Cao/pt-br-fn/models/credo/credo.tex" "build/credo.pdf" "credo" 1769546226.26492 0
+["pdflatex"] 1769549424.26769 "/home/Cao/pt-br-fn/models/credo/credo.tex" "build/credo.pdf" "credo" 1769549424.56076 0
   "/etc/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
-  "/home/Cao/pt-br-fn/models/credo/credo.tex" 1769546225.72338 3246 96fbb26cdc58de91412370ad6a9e7083 ""
+  "/home/Cao/pt-br-fn/models/credo/credo.tex" 1769549423.74327 3271 3ea136c52b3a72ece31d337372b92dfb ""
   "/usr/share/texmf/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -67,8 +67,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769534206 5467020 ca0c94f2ee48321ee55e91e42ecff204 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769533996 3289581 04f09ebc64c31e1bf75aa4c507e0efbc ""
-  "build/credo.aux" 1769546226.2343 654 326a1c5a84ce2db082c779985bbf4d84 "pdflatex"
-  "credo.tex" 1769546225.72338 3246 96fbb26cdc58de91412370ad6a9e7083 ""
+  "build/credo.aux" 1769549424.53327 654 09478c2b6956df54f25d61ce5893b952 "pdflatex"
+  "credo.tex" 1769549423.74327 3271 3ea136c52b3a72ece31d337372b92dfb ""
   (generated)
   "build/credo.aux"
   "build/credo.log"
