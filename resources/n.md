@@ -15,3 +15,22 @@ Principais Diferenças
 Espanhol vs. PB: O espanhol mantém o "n" alveolar na coda (ex: enviar), enquanto o PB usa a nasalização vocálica ou a velarização (ex: enviar pronuncia-se [ẽj̃vi'ar]). O espanhol não possui as vogais nasais fonológicas do PB.
 Inglês vs. PB: O inglês distingue fortemente /n/ (sun) de /ŋ/ (sung). No PB, o /ŋ/ é apenas alofônico (banco), e o /n/ final é geralmente silencioso, transformando-se em uma vogal nasalada.
 Nasal Palatal (nh vs. ñ): Enquanto o espanhol usa "ñ" (/ɲ/) para o som palatal (español), o português usa "nh" (espanhol), que no Brasil frequentemente é realizado como uma aproximante nasal palatal [j̃] que nasaliza a vogal anterior (ex: ninho [ˈnĩj̃u]). 
+
+
+es-MX:
+> Francia [fɾˈansja]
+> 
+> Plaza del comercio [plˈasa dˈel komˈeɾsjo]
+
+es-SP:
+> Francia [fɾˈanθja]
+>
+> Plaza del comercio [plˈaθa dˈel komˈeɾθjo]
+
+en-US:
+> France [fɹˈæns]
+
+pt-BR:
+> França [frˈɐ̃ŋsa]
+
+Portanto, a maneira mais acurada de representar a pronúncia brasileira é: "Frãsa" ao invés de "França".
