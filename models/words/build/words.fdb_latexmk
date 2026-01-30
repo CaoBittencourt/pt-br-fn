@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1769544556.26311 "/home/Cao/pt-br-fn/models/words/words.tex" "build/words.pdf" "words" 1769544557.99728 0
+["pdflatex"] 1769742220.00849 "/home/Cao/pt-br-fn/models/words/words.tex" "build/words.pdf" "words" 1769742221.65841 0
   "/etc/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
-  "/home/Cao/pt-br-fn/models/words/words.tex" 1769544556.09616 3033 bdc42a5f5473013738b00f85689cf8b8 ""
+  "/home/Cao/pt-br-fn/models/words/words.tex" 1769742219.82935 2975 f0d36ac9371bcc8c63cb149fe6865871 ""
   "/usr/share/texmf/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf/fonts/tfm/public/cm/cmbx8.tfm" 1136768653 1332 1fde11373e221473104d6cc5993f046e ""
@@ -75,8 +75,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769534206 5467020 ca0c94f2ee48321ee55e91e42ecff204 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769533996 3289581 04f09ebc64c31e1bf75aa4c507e0efbc ""
-  "build/words.aux" 1769544557.96317 305 3471cf7c3fe57106adc565127b780d8a "pdflatex"
-  "words.tex" 1769544556.09616 3033 bdc42a5f5473013738b00f85689cf8b8 ""
+  "build/words.aux" 1769742221.62436 305 3471cf7c3fe57106adc565127b780d8a "pdflatex"
+  "words.tex" 1769742219.82935 2975 f0d36ac9371bcc8c63cb149fe6865871 ""
   (generated)
   "build/words.aux"
   "build/words.log"

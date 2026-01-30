@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  27 JAN 2026 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  30 JAN 2026 00:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -319,11 +319,11 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 70.
+(Font)              <10.95> on input line 69.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 70.
+(Font)              <8> on input line 69.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 70.
+(Font)              <6> on input line 69.
 > Step: build the whole table.
 
 
@@ -338,15 +338,15 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8459 strings out of 473190
- 160668 string characters out of 5725178
- 689890 words of memory out of 5000000
- 31623 multiletter control sequences out of 15000+600000
- 567876 words of font info for 56 fonts, out of 8000000 for 9000
+ 8453 strings out of 473190
+ 160465 string characters out of 5725178
+ 687953 words of memory out of 5000000
+ 31617 multiletter control sequences out of 15000+600000
+ 567811 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,12n,90p,271b,1219s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa10.pfb>
-Output written on build/words.pdf (2 pages, 62048 bytes).
+Output written on build/words.pdf (2 pages, 62043 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream

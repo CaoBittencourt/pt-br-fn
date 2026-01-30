@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  27 JAN 2026 18:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  29 JAN 2026 23:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texmf/tex/latex/base/article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/share/texmf/tex/latex/base/size11.clo
-File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count196
 \c@section=\count197
@@ -221,39 +221,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--57
 
 
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 60--73
-
- []
-
-
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 76--89
-
- []
-
-
-
-[5] (build/credo.aux)
+[3] (build/credo.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5726 strings out of 473190
- 89296 string characters out of 5725178
- 495512 words of memory out of 5000000
- 28908 multiletter control sequences out of 15000+600000
- 564089 words of font info for 53 fonts, out of 8000000 for 9000
+ 5725 strings out of 473190
+ 89267 string characters out of 5725178
+ 494491 words of memory out of 5000000
+ 28907 multiletter control sequences out of 15000+600000
+ 563789 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,6n,79p,271b,200s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on build/credo.pdf (6 pages, 54572 bytes).
+Output written on build/credo.pdf (4 pages, 52012 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 37 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
