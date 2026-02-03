@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  3 FEB 2026 18:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  3 FEB 2026 18:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -402,29 +402,29 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 [6]
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 91--95
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--107
+Underfull \hbox (badness 10000) in paragraph at lines 100--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--107
+Underfull \hbox (badness 10000) in paragraph at lines 100--105
 
  []
 
 
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 110--114
+Underfull \hbox (badness 10000) in paragraph at lines 108--112
 
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 122--125
+Underfull \hbox (badness 1158) in paragraph at lines 120--123
 []\OT1/cmr/m/n/12 Em par-ti-cu-lar, para evi-tar ex-ces-si-vos acen-tos,
  []
 
