@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  4 FEB 2026 10:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  9 FEB 2026 17:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -300,26 +300,26 @@ Package babel Info: Importing font and identification data for portuguese
 ) (./tables/abc.tex) (./tables/vowels.tex) (./tables/diacritics.tex) (./tables/digraphs.tex) (build/manual.aux)
 \openout1 = `manual.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 23.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 25.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
  (/usr/share/texmf/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count319
@@ -402,75 +402,107 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 [6]
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 83--87
+Underfull \hbox (badness 10000) in paragraph at lines 85--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--99
+Underfull \hbox (badness 10000) in paragraph at lines 93--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--99
+Underfull \hbox (badness 10000) in paragraph at lines 93--99
 
  []
 
 
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 102--106
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
 
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 114--117
+Underfull \hbox (badness 1158) in paragraph at lines 110--111
 []\OT1/cmr/m/n/12 Em par-ti-cu-lar, para evi-tar ex-ces-si-vos acen-tos,
  []
 
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
+
+Underfull \hbox (badness 1286) in paragraph at lines 110--111
+\OT1/cmr/m/n/12 quente), re-ser-vando os di-acr^^S^^Pticos so-bre-tudo para
+ []
+
 
 
 [9]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--131
+
+ []
+
 
 
 [10]
 
-[11{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[11]
 
 [12]
-Underfull \hbox (badness 5592) in paragraph at lines 171--172
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+
+
+[13]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+
+
+[14{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+
+[15]
+Underfull \hbox (badness 5592) in paragraph at lines 203--204
 []\OT1/cmr/m/n/12 Temos na l^^S^^Pngua bra-si-leira ape-nas pa-la-vras
  []
 
 
 
-[13]
+[16]
 
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 186--188
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 218--220
 
  []
 
 
 
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 212--214
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
 
  []
 
@@ -484,56 +516,56 @@ Underfull \hbox (badness 10000) in paragraph at lines 212--214
 > Step: build the whole table.
 
 
-[16]
-
-[17]
-
-[18]
-
 [19]
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 253--255
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 265--276
-
- []
-
-
 
 [21]
-Overfull \hbox (6.51929pt too wide) in paragraph at lines 289--291
+
+[22]
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--308
+
+ []
+
+
+
+[24]
+Overfull \hbox (6.51929pt too wide) in paragraph at lines 321--323
 \OT1/cmr/m/n/12 [contagem de ca-rac-te-res para di-gi-tar] [pseudo-conclus~ao] 
  []
 
 
 
-[22]
+[25]
 
-[23]
+[26]
 
-[24] (build/manual.aux)
+[27] (build/manual.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9172 strings out of 473190
- 168491 string characters out of 5725178
- 612545 words of memory out of 5000000
- 32300 multiletter control sequences out of 15000+600000
+ 9173 strings out of 473190
+ 168497 string characters out of 5725178
+ 612614 words of memory out of 5000000
+ 32301 multiletter control sequences out of 15000+600000
  574584 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,109p,1301b,867s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa10.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa12.pfb>
-Output written on build/manual.pdf (25 pages, 157516 bytes).
+Output written on build/manual.pdf (28 pages, 163584 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
+ 155 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

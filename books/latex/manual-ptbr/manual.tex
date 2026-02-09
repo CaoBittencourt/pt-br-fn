@@ -9,6 +9,8 @@
 \usepackage[portuguese]{babel}
 \setlength{\emergencystretch}{20pt}
 
+% [task] extract to module
+\newcommand{\textll}{\textsubbar{l}\textsuperscript{j}}
 
 % \addbibresource{references.bib}
 \input{tables/abc.tex}
@@ -82,16 +84,14 @@ Finalmente, as duas últimas letras, ``x'' e ``z'' representam, cada, um único 
 \section{Vogais}
 Como aludido acima, as vogais na língua brasileira são ``a'', ``e'', ``i'',
 ``o'', ``u''; e as semivogais, ``y'' e ``w'' (``Quasi-i'' e ``Quasi-u''). As
-vogais formam hiátos se adjacentes, mas as semivogais aglutinam-se. Por exemplo, nos encontros vocálicos
+vogais formam hiátos se adjacentes, mas as semivogais aglutinam-se. Assim, nos encontros vocálicos
+% vogais formam hiátos se adjacentes, mas as semivogais aglutinam-se. Por exemplo, nos encontros vocálicos
 \\
-\par ``(em pt-br) palavra com vogal + y'' {[IPA]},
 \par ``(em pt-br) palavra com vogal + w'' {[IPA]},
 \par ``(em pt-br) palavra com y + vogal'' {[IPA]},
-\par ``(em pt-br) palavra com w + vogal'' {[IPA]},
 \par ``(em pt-br) palavra com y + vogal + w'' {[IPA]},
-\par ``(em pt-br) palavra com y + vogal + y'' {[IPA]},
 \par ``(em pt-br) palavra com w + vogal + w'' {[IPA]},
-\par ``(em pt-br) palavra com w + vogal + y'' {[IPA]},
+% \par ``(em pt-br) palavra com w + vogal + y'' {[IPA]},
 \\
 \\
 as semivogais e as vogais são uma única sílaba; já nos hiatos
@@ -99,21 +99,56 @@ as semivogais e as vogais são uma única sílaba; já nos hiatos
 \par ``(em pt-br) exemplo de hiato'' [IPA],
 \par ``(em pt-br) exemplo de hiato'' [IPA],
 \par ``(em pt-br) exemplo de hiato'' [IPA],
-\par ``(em pt-br) exemplo de hiato'' [IPA],
 \\
 \\
-as vogais, mesmo adjacentes, não se aglutinam.
+cada vogal é pronunciada separadamente.
 
-Ademais, porque visamos a consistência fonética (i.e. que se escreva como se
-diz), precisamos distinguir não só entre vogais e semivogais, mas ainda entre
-as agudas, graves e nasais. Denotá-las explicitamente exigiria ou uma letra
-para cada som (como é no Alfabeto Fonético Internacional) ou algum sistema de
-acentuação. A primeira opção não seria nem um pouco prática; a segunda, no
-entanto, também pode tornar-se trabalhosa se não implementada direito.
+Ademais, porque visamos a consistência fonética (i.e. que se escreva como se diz), convém distinguir não só entre vogais e semivogais, mas ainda entre as agudas, graves e nasais.
 
-Em particular, para evitar excessivos acentos, devemos convencionar uma
-``pronúncia padrão'' para cada vogal (viz. a mais frequente), e indicar com
-acentos apenas quando a pronúncia for diferente.
+Denotá-las explicitamente exigiria ou uma letra para cada som (como é no Alfabeto Fonético Internacional) ou algum sistema de acentuação. A primeira opção não seria nem um pouco prática, e a segunda também pode tornar-se trabalhosa se não implementada direito.
+
+Em particular, para evitar excessivos acentos, opta-se por não explicitar graficamente quando o fonema é oposto ao padrão\footnote{Geralmente, são agudas as letras ``a'', ``i'', ``u'', ``y'' e ``w''; e graves o ``e'' e ``o''.} (viz. aquele mais frequente), reservando os diacríticos sobretudo para indicar tonicidade, não a altura.
+
+Certamente, trata-se de uma decisão bastante lamentável, considerando o objetivo desta reforma. No entanto, é o único caminho factível por estas razões.
+
+Em primeiro lugar, nas palavras paroxítonas, que são as mais comuns, há uma tendência a abrir as vogais fechadas (viz. o ``e'' e o ``o''), mas o padrão não é claro o suficiente para estabelecerem-se regras de acentuação. Comparem-se, por exemplo, as palavras
+\\
+\par ``mesa'' [\textprimstress meza] e ``meta'' [\textprimstress m\textepsilon ta];
+\par ``mesma'' [\textprimstress mesma] e ``mescla'' [\textprimstress m\textepsilon scla];
+\par ``colha'' [\textprimstress ko\textll a] e ``cola'' [\textprimstress k\textopeno la];
+\par ``corra'' [\textprimstress koha] e ``corre'' [\textprimstress k\textopeno hi];
+\par ``beleza'' [be\textprimstress leza] e ``bela'' [\textprimstress b\textepsilon la];
+\par ``gosto'' [\textprimstress gostu] e ``gosto'' [\textprimstress g\textopeno stu];
+\par ``posto'' [\textprimstress postu] e ``posto'' [\textprimstress p\textopeno stu].
+\\
+
+Existem muitas outras paroxítonas como essas e, entretanto, nenhuma regra infalível para distingui-las. Se houvesse, seria tão simples quanto diferenciar
+\\
+\par ``ôca'' [\textprimstress oka] e ``oca'' [\textprimstress \textopeno ka],
+\\
+\\
+bastando uma ser acentuada, e a outra não.
+
+Mas, infelizmente, o português é mais complexo; e tão complexo é, inclusive, que conta com múltiplas variantes regionais (cf. as vogais abertas nos sotaques do nordeste e as fechadas no sudeste), um outro motivo para evitarmos indicar altura com acentos, porquanto fazê-lo poderia fragmentar ainda mais o idioma.
+% Mas, infelizmente, o português é mais complexo; e tão complexo é, inclusive, que conta com múltiplas variantes regionais (cf. as vogais abertas nos sotaques do nordeste e as fechadas no sudeste). Eis outro motivo para evitarmos indicar altura com acentos, porquanto fazê-lo poderia fragmentar ainda mais o idioma.
+
+É (quase) unânime, porém, no Brasil, pronunciar-se grave o ``a'' seguido de ``n'' ou ``m'', principalmente quando tônico (cf. ``ano'' [\textprimstress\~\textturna nu] e anotação [anota\textprimstress s\~\textturna\~w]) com relativamente poucas exceções (e.g. ``manada'' [ma\textprimstress nada]). Se fôssemos explicitar todo ``a'' grave, portanto, precisaríamos acentuar tantas palavras que tornaria-se inconveniente.
+
+Além disso, devido à função dual dos diacríticos em português, o acento grave indicando a altura do ``a'' poderia ser interpretado como indicando tonicidade; e, para desambiguar, seriam necessários mais acentos ainda. Um ótimo exemplo é a palavra ``mamãe'': porque é oxítona\footnote{Ver regras de acentuação adiante.} leva acento grave (porque o ``a'' tônico é grave); mas o primeiro ``a'' também é grave, mas não é tônico. Assim, precisaríamos: ou de um acento duplo-grave, como nas línguas croata e eslovena; ou deixaríamos como está (i.e. sem qualquer indicação); ou convencionaríamos que o ``a'' antes de ``m'' é sempre grave (ou uma regra equivalente). Ora, mas eis que a palavra ``mamão'' tem exatamente a mesma estrutura, e o primeiro ``a'' é agudo: então, a última solução não serve. E, obviamente, a primeira não é prática. Resta deixarmos como está. E o mesmo verifica-se em: [exemplos]. Há outros exemplos, mas isso ilustra o ponto o suficiente.
+
+Um quarto motivo refere-se ao plural metafônico, fenômeno tão comum em português de o singular e o plural terem pronúncias distintas (e.g. ``olho'' [] e ``olhos'' []; ``novo'' [] e ``novos'' []; e assim por diante). Por si só, a metafonia talvez não seria o bastante para remover os diacríticos de altura, pois poderiam-se convencionar regras de pronúncia (e.g. ``são agudos os plurais das paroxítonas''), conquanto até essa regra teria exceções (e.g. ``restolhos'', cf. ``olhos'' acima, ou ``seu'' e ``seus'', onde não há metafonia). Porém, somado aos demais fatores, essa parece ser uma boa razão para reservar os acentos à denotação de tonicidade.
+
+digitar menos caracteres
+% ``manada''
+% ``mamão'' vs ``mamãe'' vs ``mama''
+% ``mesa' vs ``meta'''
+% ``mosca'' vs ``''
+% ``oca'' vs ``óca''
+são vs são vs São (sa\~w vs sà\~w vs Sà\~w)
+
+além disso, um sistema como este acaba por produzir mais palavras homógrafas; e, nisso, não acentuar sempre que a pronúncia diferir do padrão torna-se até conveniente para diferenciar palavras que, de outro modo, seriam idênticas (cf. olho e óleo).
+
+% Em primeiro lugar, para evitar excessivos acentos, devemos convencionar uma ``pronúncia padrão'' para cada vogal (viz. a mais frequente), e indicar com acentos apenas quando a pronúncia for diferente.
 
 A tabela abaixo define a pronúncia padrão das vogais e semivogais brasileiras:
 
@@ -130,10 +165,7 @@ convém definirmos, primeiro, os acentos que as indicam:
 
 \PtTableDiacritics
 
-As funções dos acentos na Tabela \ref{pt.table.diacritics} são variadas. Mas,
-de maneira geral, servem para: 1) explicitar quando a pronúncia não é a padrão;
-2) indicar a sílaba tônica quando não for autoevidente; 3) diferenciar palavras
-homófonas\footnote{Sendo muito simples a função de diferenciar palavras de mesmo som, opta-se por não explicá-la em detalhes, para não interromper o fluxo deste texto. Porém, a título de exemplo, compare-se o verbo ``há'' (agora escrito ``á'') e o artigo ou a preposição ``a''. Fica claro, aqui, que o acento é o único meio de diferenciar essas homófonas.}.
+As funções dos acentos na Tabela \ref{pt.table.diacritics} são variadas. Mas, de maneira geral, servem para: 1) explicitar quando a pronúncia não é a padrão; 2) indicar a sílaba tônica quando não for autoevidente; 3) diferenciar palavras homófonas\footnote{Sendo muito simples a função de diferenciar palavras de mesmo som, opta-se por não explicá-la em detalhes, para não interromper o fluxo deste texto. Porém, a título de exemplo, compare-se o verbo ``há'' (agora escrito ``á'') e o artigo ou a preposição ``a''. Fica claro, aqui, que o acento é o único meio de diferenciar essas homófonas.}.
 
 \subsubsection{Altura e acentuação}
 A primeira dessas funções é realizada por todos os acentos, exceto a crase.

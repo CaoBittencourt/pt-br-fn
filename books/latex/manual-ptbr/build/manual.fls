@@ -164,6 +164,7 @@ INPUT /usr/share/texmf/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tipa/tipa12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
@@ -172,7 +173,6 @@ INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/jknappen/ec/tcrm1200.tfm
-INPUT /usr/share/texmf/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/share/texmf/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
