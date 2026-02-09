@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  9 FEB 2026 17:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  9 FEB 2026 20:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -424,38 +424,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--105
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 110--111
-[]\OT1/cmr/m/n/12 Em par-ti-cu-lar, para evi-tar ex-ces-si-vos acen-tos,
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 110--111
-\OT1/cmr/m/n/12 quente), re-ser-vando os di-acr^^S^^Pticos so-bre-tudo para
- []
-
-
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--127
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--131
-
- []
-
-
 
 [10]
 
@@ -473,20 +443,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--131
 
 
 [13]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
-
 
 [14{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 [15]
-Underfull \hbox (badness 5592) in paragraph at lines 203--204
+Underfull \hbox (badness 5592) in paragraph at lines 191--192
 []\OT1/cmr/m/n/12 Temos na l^^S^^Pngua bra-si-leira ape-nas pa-la-vras
  []
 
@@ -495,14 +456,14 @@ Underfull \hbox (badness 5592) in paragraph at lines 203--204
 [16]
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 218--220
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
 
  []
 
 
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 244--246
+Underfull \hbox (badness 10000) in paragraph at lines 233--235
 
  []
 
@@ -523,25 +484,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 244--246
 [21]
 
 [22]
+Underfull \hbox (badness 10000) in paragraph at lines 272--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--334
+
+ []
+
+
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 285--287
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 297--308
-
- []
-
-
 
 [24]
-Overfull \hbox (6.51929pt too wide) in paragraph at lines 321--323
-\OT1/cmr/m/n/12 [contagem de ca-rac-te-res para di-gi-tar] [pseudo-conclus~ao] 
- []
-
-
 
 [25]
 
@@ -554,18 +510,18 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9173 strings out of 473190
- 168497 string characters out of 5725178
- 612614 words of memory out of 5000000
- 32301 multiletter control sequences out of 15000+600000
- 574584 words of font info for 79 fonts, out of 8000000 for 9000
+ 9166 strings out of 473190
+ 168383 string characters out of 5725178
+ 620481 words of memory out of 5000000
+ 32296 multiletter control sequences out of 15000+600000
+ 572491 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,109p,1301b,867s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa10.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa12.pfb>
-Output written on build/manual.pdf (28 pages, 163584 bytes).
+</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa12.pfb>
+Output written on build/manual.pdf (28 pages, 152769 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 145 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
