@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  10 FEB 2026 11:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  10 FEB 2026 13:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -417,13 +417,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--89
  []
 
 
-
-[8]
 Underfull \hbox (badness 10000) in paragraph at lines 91--95
 
  []
 
 
+
+[8]
 
 [9]
 
@@ -449,21 +449,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--95
 [15]
 
 [16]
-Underfull \hbox (badness 5592) in paragraph at lines 190--191
+Underfull \hbox (badness 5592) in paragraph at lines 191--192
 []\OT1/cmr/m/n/12 Temos na l^^S^^Pngua bra-si-leira ape-nas pa-la-vras
  []
 
 
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 206--208
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
 
  []
 
 
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 232--234
+Underfull \hbox (badness 10000) in paragraph at lines 233--235
 
  []
 
@@ -487,12 +487,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 232--234
 [22]
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 271--311
+Underfull \hbox (badness 10000) in paragraph at lines 272--312
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--333
+Underfull \hbox (badness 10000) in paragraph at lines 323--334
 
  []
 
@@ -511,15 +511,15 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9170 strings out of 473190
- 168420 string characters out of 5725178
- 611304 words of memory out of 5000000
- 32299 multiletter control sequences out of 15000+600000
+ 9171 strings out of 473190
+ 168428 string characters out of 5725178
+ 611318 words of memory out of 5000000
+ 32300 multiletter control sequences out of 15000+600000
  572837 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,109p,1298b,867s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa12.pfb>
-Output written on build/manual.pdf (28 pages, 166927 bytes).
+Output written on build/manual.pdf (28 pages, 166972 bytes).
 PDF statistics:
  150 PDF objects out of 1000 (max. 8388607)
  97 compressed objects within 1 object stream
