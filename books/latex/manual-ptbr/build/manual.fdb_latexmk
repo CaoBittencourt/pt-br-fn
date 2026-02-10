@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1770678110.71176 "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" "build/manual.pdf" "manual" 1770678112.61382 0
+["pdflatex"] 1770731505.022 "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" "build/manual.pdf" "manual" 1770731506.97477 0
   "/etc/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
-  "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" 1770678110.5195 27160 bfdc734fb1a70e75691e2b9ee2739558 ""
+  "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" 1770731504.82754 28047 3e0fb1d9418b9f5e528b3558c053d96b ""
   "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -23,6 +23,7 @@
   "/usr/share/texmf/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texmf/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texmf/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/share/texmf/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/share/texmf/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/share/texmf/fonts/tfm/public/tipa/tipa12.tfm" 1136768653 1904 46161d99aac61180bbec3c8318bccfe2 ""
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
@@ -32,6 +33,7 @@
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb" 1248133631 24420 52dbb8e8aa0069a1b987309557f8d303 ""
+  "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb" 1215737283 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/share/texmf/fonts/type1/public/tipa/tipa12.pfb" 1239205359 66505 afd2b5c4745b83142909c4b8e9b0943a ""
@@ -89,8 +91,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769534206 5467020 ca0c94f2ee48321ee55e91e42ecff204 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769533996 3289581 04f09ebc64c31e1bf75aa4c507e0efbc ""
-  "build/manual.aux" 1770678112.57131 1812 a43a9aab3999a680e7be7b6173aa12c8 "pdflatex"
-  "manual.tex" 1770678110.5195 27160 bfdc734fb1a70e75691e2b9ee2739558 ""
+  "build/manual.aux" 1770731506.91055 1812 7ecbb88af21d34cf9e49b88c6485ce50 "pdflatex"
+  "manual.tex" 1770731504.82754 28047 3e0fb1d9418b9f5e528b3558c053d96b ""
   "tables/abc.tex" 1769534717.2764 1969 9b311493d27dd7bc2f023c9c0cadbe26 ""
   "tables/diacritics.tex" 1769534717.27725 724 926ce9557be6a2ef99f7554c017dbce0 ""
   "tables/digraphs.tex" 1769534717.27725 2365 7ca21f36ad6b3792e1895a78a7f71e4d ""
