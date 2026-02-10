@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1770746775.52729 "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" "build/manual.pdf" "manual" 1770746777.45798 0
+["pdflatex"] 1770748975.88347 "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" "build/manual.pdf" "manual" 1770748977.84939 0
   "/etc/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
-  "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" 1770746775.34225 29582 877a53fb3ae6d7bc425019af6be17b2a ""
+  "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" 1770748975.65946 29281 c502c5bc38cdf12b0eedbb0e283663ad ""
   "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -91,8 +91,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769534206 5467020 ca0c94f2ee48321ee55e91e42ecff204 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769533996 3289581 04f09ebc64c31e1bf75aa4c507e0efbc ""
-  "build/manual.aux" 1770746777.39825 1835 d9e23d760e9bdc805660d8dff486a33a "pdflatex"
-  "manual.tex" 1770746775.34225 29582 877a53fb3ae6d7bc425019af6be17b2a ""
+  "build/manual.aux" 1770748977.80547 1836 3098cda12d9117da54a0c4c4bd4618ff "pdflatex"
+  "manual.tex" 1770748975.65946 29281 c502c5bc38cdf12b0eedbb0e283663ad ""
   "tables/abc.tex" 1769534717.2764 1969 9b311493d27dd7bc2f023c9c0cadbe26 ""
   "tables/diacritics.tex" 1770742650.45731 738 ab497a50180f690360f0610a5151cf6f ""
   "tables/digraphs.tex" 1769534717.27725 2365 7ca21f36ad6b3792e1895a78a7f71e4d ""
