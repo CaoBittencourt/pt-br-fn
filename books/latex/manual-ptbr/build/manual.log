@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  10 FEB 2026 15:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  10 FEB 2026 16:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -451,27 +451,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--99
 [16{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 [17]
-Underfull \hbox (badness 5592) in paragraph at lines 195--196
+Underfull \hbox (badness 5592) in paragraph at lines 197--198
 []\OT1/cmr/m/n/12 Temos na l^^S^^Pngua bra-si-leira ape-nas pa-la-vras
  []
 
 
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
+Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
 
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 237--239
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 239--241
 
  []
 
-
-
-[20]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -489,12 +488,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 237--239
 [23]
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 276--316
+Underfull \hbox (badness 10000) in paragraph at lines 278--318
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--338
+Underfull \hbox (badness 10000) in paragraph at lines 329--340
 
  []
 
@@ -506,7 +505,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 327--338
 
 [27]
 
-[28] (build/manual.aux)
+[28]
+
+[29] (build/manual.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -515,16 +516,16 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  9171 strings out of 473190
  168428 string characters out of 5725178
- 611317 words of memory out of 5000000
+ 611336 words of memory out of 5000000
  32300 multiletter control sequences out of 15000+600000
  572837 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,109p,1298b,865s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa12.pfb>
-Output written on build/manual.pdf (29 pages, 167764 bytes).
+Output written on build/manual.pdf (30 pages, 168179 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
+ 157 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
