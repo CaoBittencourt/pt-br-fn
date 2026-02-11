@@ -2,12 +2,21 @@
 
 \usepackage{pdfpages}
 % \usepackage[backend=biber,style=apa]{biblatex}
+\usepackage{tocloft}
+\setlength{\cftsecindent}{0pt}
+\setlength{\cftsubsecindent}{0pt}
+\setlength{\cftsubsubsecindent}{0pt}
+
 \usepackage{amsmath}
 \usepackage{tipa}
+
 \usepackage{tabularray}
 \UseTblrLibrary{booktabs}
+
+
 \usepackage[portuguese]{babel}
 \setlength{\emergencystretch}{20pt}
+
 
 % [task] extract to module
 \newcommand{\textll}{\textsubbar{l}\textsuperscript{j}}
@@ -31,12 +40,13 @@
 \thispagestyle{empty}
 
 \newpage
+\tableofcontents
+\newpage
 
 \section{Introdução}
 [introdução 1]
 \newpage
 [introdução 2]
-\newpage
 
 \newpage
 \section{Alfabeto}\label{pt.section.abc}

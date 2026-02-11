@@ -47,6 +47,8 @@ INPUT /usr/share/texmf/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/share/texmf/tex/latex/pdfpages/pppdftex.def
 INPUT /usr/share/texmf/tex/latex/pdfpages/pppdftex.def
 INPUT /usr/share/texmf/tex/latex/pdfpages/pppdftex.def
+INPUT /usr/share/texmf/tex/latex/tocloft/tocloft.sty
+INPUT /usr/share/texmf/tex/latex/tocloft/tocloft.sty
 INPUT /usr/share/texmf/tex/latex/amsmath/amsmath.sty
 INPUT /usr/share/texmf/tex/latex/amsmath/amsmath.sty
 INPUT /usr/share/texmf/tex/latex/amsmath/amsopn.sty
@@ -149,9 +151,9 @@ OUTPUT build/manual.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
+INPUT build/manual.toc
+INPUT build/manual.toc
+INPUT build/manual.toc
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmmi12.tfm
@@ -163,6 +165,10 @@ INPUT /usr/share/texmf/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+OUTPUT build/manual.toc
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tipa/tipa12.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm

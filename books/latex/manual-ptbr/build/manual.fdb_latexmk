@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1770843313.82025 "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" "build/manual.pdf" "manual" 1770843315.7715 0
+["pdflatex"] 1770843767.19989 "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" "build/manual.pdf" "manual" 1770843769.20093 0
   "/etc/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
-  "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" 1770843313.57932 27334 e4888cc53de9ebab2f21d4ea1735c3fc ""
+  "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" 1770843766.97261 27479 32bc8753ee2776ac82d53efdb04eb2af ""
   "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -86,13 +86,15 @@
   "/usr/share/texmf/tex/latex/tipa/t3cmr.fd" 1137110956 1257 fd5b1c2f0106f9cf12cdb2ff961987c5 ""
   "/usr/share/texmf/tex/latex/tipa/t3enc.def" 1137110956 26483 c461a68c34040cb0d96c43e86c012a6d ""
   "/usr/share/texmf/tex/latex/tipa/tipa.sty" 1137110956 21394 82fa9965637ca62399434739ae5998f6 ""
+  "/usr/share/texmf/tex/latex/tocloft/tocloft.sty" 1578692495 36103 3e78d14f0f4b1a30560fea5e04de805d ""
   "/usr/share/texmf/tex/latex/tools/calc.sty" 1717359999 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "/usr/share/texmf/tex/latex/xcolor/xcolor.sty" 1727642399 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769534206 5467020 ca0c94f2ee48321ee55e91e42ecff204 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769533996 3289581 04f09ebc64c31e1bf75aa4c507e0efbc ""
-  "build/manual.aux" 1770843315.72832 1851 08899d7c41aafcc05c97dd319eb301e0 "pdflatex"
-  "manual.tex" 1770843313.57932 27334 e4888cc53de9ebab2f21d4ea1735c3fc ""
+  "build/manual.aux" 1770843769.15699 1852 7433ff449a36e86c0ca37a10b4c8c35d "pdflatex"
+  "build/manual.toc" 1770843769.15699 764 120a923c611b232c90ab065286f7339c "pdflatex"
+  "manual.tex" 1770843766.97261 27479 32bc8753ee2776ac82d53efdb04eb2af ""
   "tables/abc.tex" 1769534717.2764 1969 9b311493d27dd7bc2f023c9c0cadbe26 ""
   "tables/diacritics.tex" 1770841850.72339 746 7e2aa4aae623386782178265fee26009 ""
   "tables/digraphs.tex" 1770757853.67411 2569 562c3d03c90c79dec0f841541c72774d ""
@@ -101,4 +103,5 @@
   "build/manual.aux"
   "build/manual.log"
   "build/manual.pdf"
+  "build/manual.toc"
   (rewritten before read)

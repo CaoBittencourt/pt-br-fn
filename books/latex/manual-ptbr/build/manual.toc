@@ -1,0 +1,12 @@
+\babel@toc {portuguese}{}\relax 
+\contentsline {section}{\numberline {1}Introdução}{3}{}%
+\contentsline {section}{\numberline {2}Alfabeto}{5}{}%
+\contentsline {section}{\numberline {3}Vogais}{10}{}%
+\contentsline {subsection}{\numberline {3.1}Acentos}{11}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Os novos diacríticos da língua brasileira}{16}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Regras de acentuação e tonicidade}{19}{}%
+\contentsline {subsection}{\numberline {3.2}Resumo dos fonemas vocálicos}{21}{}%
+\contentsline {section}{\numberline {4}Dígrafos}{21}{}%
+\contentsline {section}{\numberline {5}Exemplos}{27}{}%
+\contentsline {section}{\numberline {6}Resumo}{28}{}%
+\contentsline {section}{\numberline {7}Referências}{29}{}%
