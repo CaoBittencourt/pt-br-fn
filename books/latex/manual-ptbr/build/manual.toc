@@ -7,6 +7,6 @@
 \contentsline {subsubsection}{\numberline {3.1.2}Regras de acentuação e tonicidade}{19}{}%
 \contentsline {subsection}{\numberline {3.2}Resumo dos fonemas vocálicos}{21}{}%
 \contentsline {section}{\numberline {4}Dígrafos}{21}{}%
-\contentsline {section}{\numberline {5}Exemplos}{27}{}%
-\contentsline {section}{\numberline {6}Resumo}{28}{}%
-\contentsline {section}{\numberline {7}Referências}{29}{}%
+\contentsline {section}{\numberline {5}Exemplos}{28}{}%
+\contentsline {section}{\numberline {6}Resumo}{29}{}%
+\contentsline {section}{\numberline {7}Referências}{30}{}%

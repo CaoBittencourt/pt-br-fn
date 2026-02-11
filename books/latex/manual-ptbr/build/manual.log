@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  11 FEB 2026 18:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  11 FEB 2026 20:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -508,25 +508,27 @@ Underfull \hbox (badness 1817) in paragraph at lines 237--237
 
 [28]
 
-[29] (build/manual.aux)
+[29]
+
+[30] (build/manual.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9453 strings out of 473190
- 172774 string characters out of 5725178
+ 9454 strings out of 473190
+ 172787 string characters out of 5725178
  627213 words of memory out of 5000000
- 32575 multiletter control sequences out of 15000+600000
+ 32576 multiletter control sequences out of 15000+600000
  572837 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,109p,1298b,858s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa12.pfb>
-Output written on build/manual.pdf (30 pages, 169452 bytes).
+Output written on build/manual.pdf (31 pages, 170198 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+ 161 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
