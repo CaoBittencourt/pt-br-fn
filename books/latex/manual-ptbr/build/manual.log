@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  11 FEB 2026 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  11 FEB 2026 17:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -404,26 +404,6 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 [7]
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 79--84
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--93
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--93
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--99
-
- []
-
-
 
 [9]
 
@@ -436,8 +416,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--99
 [13]
 
 [14]
-
-[15]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -447,18 +425,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--99
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--163
 
- []
-
-
+[15]
 
 [16{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 166--168
-
- []
-
-
 
 [17]
 
@@ -474,7 +444,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--168
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
 
-Underfull \hbox (badness 1817) in paragraph at lines 217--217
+Underfull \hbox (badness 1817) in paragraph at lines 227--227
 [][]\OT1/cmr/m/n/12 A pa-la-vra ``res-tau-ra-dor'' ^^Se in-te-res-sante, por-que
  []
 
@@ -487,16 +457,6 @@ Underfull \hbox (badness 1817) in paragraph at lines 217--217
 [22]
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 241--281
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--303
-
- []
-
-
 
 [24]
 
@@ -521,7 +481,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,11n,109p,1298b,858s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa12.pfb>
-Output written on build/manual.pdf (29 pages, 168333 bytes).
+Output written on build/manual.pdf (29 pages, 168070 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  99 compressed objects within 1 object stream
