@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1770856340.88307 "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" "build/manual.pdf" "manual" 1770856342.77731 0
+["pdflatex"] 1770940820.03772 "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" "build/manual.pdf" "manual" 1770940821.98431 0
   "/etc/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
-  "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" 1770856338.76522 30477 a5bb75a97c646e6552154685212aedd9 ""
+  "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" 1770940817.78734 31442 04d08733774b9ba9145cda20d55c9379 ""
   "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -25,6 +25,7 @@
   "/usr/share/texmf/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texmf/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/share/texmf/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
+  "/usr/share/texmf/fonts/tfm/public/tipa/tipa10.tfm" 1136768653 1920 8604b12a16d79ccdaa2f671dda04ba87 ""
   "/usr/share/texmf/fonts/tfm/public/tipa/tipa12.tfm" 1136768653 1904 46161d99aac61180bbec3c8318bccfe2 ""
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
@@ -36,6 +37,7 @@
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb" 1215737283 136101 f533469f523533d38317ab5729d00c8a ""
+  "/usr/share/texmf/fonts/type1/public/tipa/tipa10.pfb" 1239205359 66981 db8743012a503bce4db4edd88992c8b5 ""
   "/usr/share/texmf/fonts/type1/public/tipa/tipa12.pfb" 1239205359 66505 afd2b5c4745b83142909c4b8e9b0943a ""
   "/usr/share/texmf/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texmf/tex/generic/babel-portuges/portuguese.ldf" 1625860693 6599 898431e984e4e8b6d8aa6cdcb036f8db ""
@@ -92,9 +94,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769534206 5467020 ca0c94f2ee48321ee55e91e42ecff204 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769533996 3289581 04f09ebc64c31e1bf75aa4c507e0efbc ""
-  "build/manual.aux" 1770856342.73123 2207 0c7962590b7b5e18da7a0076d14a6992 "pdflatex"
-  "build/manual.toc" 1770856342.73223 996 d04b8207ac962471b5021e0fdfc69799 "pdflatex"
-  "manual.tex" 1770856338.76522 30477 a5bb75a97c646e6552154685212aedd9 ""
+  "build/manual.aux" 1770940821.9378 2207 abefd88fb9c1d65789e06436e383a185 "pdflatex"
+  "build/manual.toc" 1770940821.9378 996 33ffbc049a3d7cb2b878fb90e591e4c1 "pdflatex"
+  "manual.tex" 1770940817.78734 31442 04d08733774b9ba9145cda20d55c9379 ""
   "tables/abc.tex" 1769534717.2764 1969 9b311493d27dd7bc2f023c9c0cadbe26 ""
   "tables/diacritics.tex" 1770841850.72339 746 7e2aa4aae623386782178265fee26009 ""
   "tables/digraphs.tex" 1770757853.67411 2569 562c3d03c90c79dec0f841541c72774d ""
