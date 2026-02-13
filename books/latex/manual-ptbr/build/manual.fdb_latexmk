@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1770987994.39561 "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" "build/manual.pdf" "manual" 1770987996.38718 0
+["pdflatex"] 1771003876.13041 "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" "build/manual.pdf" "manual" 1771003878.02723 0
   "/etc/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
-  "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" 1770987994.22567 31590 093e6a32c56579e2fd6dd76d720eb571 ""
+  "/home/Cao/pt-br-fn/books/latex/manual-ptbr/manual.tex" 1771003873.94472 31650 06cc74ac755eca7220005124d8fb454e ""
   "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -34,6 +34,7 @@
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb" 1248133631 24420 52dbb8e8aa0069a1b987309557f8d303 ""
+  "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb" 1215737283 136101 f533469f523533d38317ab5729d00c8a ""
@@ -94,9 +95,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769534206 5467020 ca0c94f2ee48321ee55e91e42ecff204 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769533996 3289581 04f09ebc64c31e1bf75aa4c507e0efbc ""
-  "build/manual.aux" 1770987996.34068 2207 3ef10af0e6d577277abf084e5659e5f3 "pdflatex"
-  "build/manual.toc" 1770987996.34168 996 9b5e0ab950c659be77eecce68a8b40d2 "pdflatex"
-  "manual.tex" 1770987994.22567 31590 093e6a32c56579e2fd6dd76d720eb571 ""
+  "build/manual.aux" 1771003877.97909 2327 93629c27e00ef9ce61cccab58d0f92ca "pdflatex"
+  "build/manual.toc" 1771003877.98009 1075 619f6f7db21033a30e9c09ba08675748 "pdflatex"
+  "manual.tex" 1771003873.94472 31650 06cc74ac755eca7220005124d8fb454e ""
   "tables/abc.tex" 1769534717.2764 1969 9b311493d27dd7bc2f023c9c0cadbe26 ""
   "tables/diacritics.tex" 1770841850.72339 746 7e2aa4aae623386782178265fee26009 ""
   "tables/digraphs.tex" 1770757853.67411 2569 562c3d03c90c79dec0f841541c72774d ""
