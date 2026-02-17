@@ -70,6 +70,10 @@ INPUT /usr/share/texmf/fonts/tfm/public/cm/cmsl12.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmti12.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/share/texmf/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texmf/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texmf/tex/latex/tools/array.sty
+INPUT /usr/share/texmf/tex/latex/tools/array.sty
 INPUT /usr/share/texmf/tex/latex/tabularray/tabularray.sty
 INPUT /usr/share/texmf/tex/latex/tabularray/tabularray.sty
 INPUT /usr/share/texmf/tex/latex/l3kernel/expl3.sty
@@ -178,11 +182,11 @@ INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT /usr/share/texmf/fonts/tfm/public/tipa/tipa10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/cm/cmss8.tfm
-INPUT /usr/share/texmf/fonts/tfm/public/tipa/tipa10.tfm
 INPUT build/manual.aux
 INPUT /usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb

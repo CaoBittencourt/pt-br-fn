@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  17 FEB 2026 13:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  17 FEB 2026 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -203,130 +203,149 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 File: t3enc.def 2001/12/31 T3 encoding
 Now handling font encoding T3 ...
 ... no UTF-8 mapping file for font encoding T3
-))) (/usr/share/texmf/tex/latex/tabularray/tabularray.sty (/usr/share/texmf/tex/latex/l3kernel/expl3.sty
+))) (/usr/share/texmf/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+ (/usr/share/texmf/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen160
+\ar@mcellbox=\box56
+\extrarowheight=\dimen161
+\NC@list=\toks26
+\extratabsurround=\skip88
+\backup@length=\skip89
+\ar@cellbox=\box57
+)
+\TX@col@width=\dimen162
+\TX@old@table=\dimen163
+\TX@old@col=\dimen164
+\TX@target=\dimen165
+\TX@delta=\dimen166
+\TX@cols=\count291
+\TX@ftn=\toks27
+) (/usr/share/texmf/tex/latex/tabularray/tabularray.sty (/usr/share/texmf/tex/latex/l3kernel/expl3.sty
 Package: expl3 2025-01-18 L3 programming layer (loader) 
  (/usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count291
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count292
+\l__pdf_internal_box=\box58
 ))
 Package: tabularray 2024-02-16 v2024A Typeset tabulars and arrays with LaTeX3
-\l__tblr_a_int=\count292
-\l__tblr_c_int=\count293
-\l__tblr_r_int=\count294
-\l__tblr_d_dim=\dimen160
-\l__tblr_h_dim=\dimen161
-\l__tblr_o_dim=\dimen162
-\l__tblr_p_dim=\dimen163
-\l__tblr_q_dim=\dimen164
-\l__tblr_r_dim=\dimen165
-\l__tblr_s_dim=\dimen166
-\l__tblr_t_dim=\dimen167
-\l__tblr_v_dim=\dimen168
-\l__tblr_w_dim=\dimen169
-\l__tblr_a_box=\box57
-\l__tblr_b_box=\box58
-\l__tblr_c_box=\box59
-\l__tblr_d_box=\box60
-\g__tblr_table_count_int=\count295
-\c@rownum=\count296
-\c@colnum=\count297
-\c@rowcount=\count298
-\c@colcount=\count299
-\abovesep=\dimen170
-\belowsep=\dimen171
-\leftsep=\dimen172
-\rightsep=\dimen173
-\g_tblr_level_int=\count300
-\g__tblr_data_row_key_count_int=\count301
-\g__tblr_data_column_key_count_int=\count302
-\g__tblr_data_cell_key_count_int=\count303
-\g__tblr_array_int=\count304
-\l__tblr_key_count_int=\count305
-\l__tblr_key_quotient_int=\count306
-\l__tblr_key_quotient_two_int=\count307
-\l__tblr_key_remainder_int=\count308
-\g__tblr_data_str_value_count_int=\count309
-\rulewidth=\dimen174
-\l__tblr_strut_dp_dim=\dimen175
-\l__tblr_strut_ht_dim=\dimen176
-\g__tblr_cell_wd_dim=\dimen177
-\g__tblr_cell_ht_dim=\dimen178
-\g__tblr_cell_head_dim=\dimen179
-\g__tblr_cell_foot_dim=\dimen180
-\l__column_target_dim=\dimen181
-\l__tblr_caption_box=\box61
-\l__tblr_caption_left_box=\box62
-\l__tblr_row_head_box=\box63
-\l__tblr_row_foot_box=\box64
-\l__tblr_row_head_foot_dim=\dimen182
-\tablewidth=\dimen183
-\l__tblr_table_firsthead_box=\box65
-\l__tblr_table_middlehead_box=\box66
-\l__tblr_table_lasthead_box=\box67
-\l__tblr_table_firstfoot_box=\box68
-\l__tblr_table_middlefoot_box=\box69
-\l__tblr_table_lastfoot_box=\box70
-\l__tblr_remain_height_dim=\dimen184
-\l__tblr_long_from_int=\count310
-\l__tblr_long_to_int=\count311
-\l__tblr_curr_i_int=\count312
-\l__tblr_prev_i_int=\count313
-\l__tblr_table_page_int=\count314
-\l__tblr_table_head_box=\box71
-\l__tblr_table_foot_box=\box72
-\l__tblr_table_head_foot_dim=\dimen185
-\l__tblr_table_head_body_foot_dim=\dimen186
-\l__tblr_table_box=\box73
-\l__tblr_table_hlines_box=\box74
-\l__tblr_hline_box=\box75
-\l__tblr_row_box=\box76
-\l__tblr_col_o_wd_dim=\dimen187
-\l__tblr_col_b_wd_dim=\dimen188
-\l__tblr_hline_leftskip_dim=\dimen189
-\l__tblr_hline_rightskip_dim=\dimen190
-\l__tblr_row_ht_dim=\dimen191
-\l__tblr_row_dp_dim=\dimen192
-\l__tblr_row_abovesep_dim=\dimen193
-\l__tblr_row_belowsep_dim=\dimen194
-\l__tblr_row_vlines_box=\box77
-\l__tblr_vline_box=\box78
-\l__tblr_cell_box=\box79
-\l__row_upper_dim=\dimen195
-\l__row_lower_dim=\dimen196
-\l__row_vpace_dim=\dimen197
-\l__tblr_vline_aboveskip_dim=\dimen198
-\l__tblr_vline_belowskip_dim=\dimen199
-\l__tblr_cell_wd_dim=\dimen256
-\l__tblr_cell_ht_dim=\dimen257
-\l__tblr_diag_box=\box80
+\l__tblr_a_int=\count293
+\l__tblr_c_int=\count294
+\l__tblr_r_int=\count295
+\l__tblr_d_dim=\dimen167
+\l__tblr_h_dim=\dimen168
+\l__tblr_o_dim=\dimen169
+\l__tblr_p_dim=\dimen170
+\l__tblr_q_dim=\dimen171
+\l__tblr_r_dim=\dimen172
+\l__tblr_s_dim=\dimen173
+\l__tblr_t_dim=\dimen174
+\l__tblr_v_dim=\dimen175
+\l__tblr_w_dim=\dimen176
+\l__tblr_a_box=\box59
+\l__tblr_b_box=\box60
+\l__tblr_c_box=\box61
+\l__tblr_d_box=\box62
+\g__tblr_table_count_int=\count296
+\c@rownum=\count297
+\c@colnum=\count298
+\c@rowcount=\count299
+\c@colcount=\count300
+\abovesep=\dimen177
+\belowsep=\dimen178
+\leftsep=\dimen179
+\rightsep=\dimen180
+\g_tblr_level_int=\count301
+\g__tblr_data_row_key_count_int=\count302
+\g__tblr_data_column_key_count_int=\count303
+\g__tblr_data_cell_key_count_int=\count304
+\g__tblr_array_int=\count305
+\l__tblr_key_count_int=\count306
+\l__tblr_key_quotient_int=\count307
+\l__tblr_key_quotient_two_int=\count308
+\l__tblr_key_remainder_int=\count309
+\g__tblr_data_str_value_count_int=\count310
+\rulewidth=\dimen181
+\l__tblr_strut_dp_dim=\dimen182
+\l__tblr_strut_ht_dim=\dimen183
+\g__tblr_cell_wd_dim=\dimen184
+\g__tblr_cell_ht_dim=\dimen185
+\g__tblr_cell_head_dim=\dimen186
+\g__tblr_cell_foot_dim=\dimen187
+\l__column_target_dim=\dimen188
+\l__tblr_caption_box=\box63
+\l__tblr_caption_left_box=\box64
+\l__tblr_row_head_box=\box65
+\l__tblr_row_foot_box=\box66
+\l__tblr_row_head_foot_dim=\dimen189
+\tablewidth=\dimen190
+\l__tblr_table_firsthead_box=\box67
+\l__tblr_table_middlehead_box=\box68
+\l__tblr_table_lasthead_box=\box69
+\l__tblr_table_firstfoot_box=\box70
+\l__tblr_table_middlefoot_box=\box71
+\l__tblr_table_lastfoot_box=\box72
+\l__tblr_remain_height_dim=\dimen191
+\l__tblr_long_from_int=\count311
+\l__tblr_long_to_int=\count312
+\l__tblr_curr_i_int=\count313
+\l__tblr_prev_i_int=\count314
+\l__tblr_table_page_int=\count315
+\l__tblr_table_head_box=\box73
+\l__tblr_table_foot_box=\box74
+\l__tblr_table_head_foot_dim=\dimen192
+\l__tblr_table_head_body_foot_dim=\dimen193
+\l__tblr_table_box=\box75
+\l__tblr_table_hlines_box=\box76
+\l__tblr_hline_box=\box77
+\l__tblr_row_box=\box78
+\l__tblr_col_o_wd_dim=\dimen194
+\l__tblr_col_b_wd_dim=\dimen195
+\l__tblr_hline_leftskip_dim=\dimen196
+\l__tblr_hline_rightskip_dim=\dimen197
+\l__tblr_row_ht_dim=\dimen198
+\l__tblr_row_dp_dim=\dimen199
+\l__tblr_row_abovesep_dim=\dimen256
+\l__tblr_row_belowsep_dim=\dimen257
+\l__tblr_row_vlines_box=\box79
+\l__tblr_vline_box=\box80
+\l__tblr_cell_box=\box81
+\l__row_upper_dim=\dimen258
+\l__row_lower_dim=\dimen259
+\l__row_vpace_dim=\dimen260
+\l__tblr_vline_aboveskip_dim=\dimen261
+\l__tblr_vline_belowskip_dim=\dimen262
+\l__tblr_cell_wd_dim=\dimen263
+\l__tblr_cell_ht_dim=\dimen264
+\l__tblr_diag_box=\box82
 ) (/usr/share/texmf/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen258
-\lightrulewidth=\dimen259
-\cmidrulewidth=\dimen260
-\belowrulesep=\dimen261
-\belowbottomsep=\dimen262
-\aboverulesep=\dimen263
-\abovetopsep=\dimen264
-\cmidrulesep=\dimen265
-\cmidrulekern=\dimen266
-\defaultaddspace=\dimen267
-\@cmidla=\count315
-\@cmidlb=\count316
-\@aboverulesep=\dimen268
-\@belowrulesep=\dimen269
-\@thisruleclass=\count317
-\@lastruleclass=\count318
-\@thisrulewidth=\dimen270
+\heavyrulewidth=\dimen265
+\lightrulewidth=\dimen266
+\cmidrulewidth=\dimen267
+\belowrulesep=\dimen268
+\belowbottomsep=\dimen269
+\aboverulesep=\dimen270
+\abovetopsep=\dimen271
+\cmidrulesep=\dimen272
+\cmidrulekern=\dimen273
+\defaultaddspace=\dimen274
+\@cmidla=\count316
+\@cmidlb=\count317
+\@aboverulesep=\dimen275
+\@belowrulesep=\dimen276
+\@thisruleclass=\count318
+\@lastruleclass=\count319
+\@thisrulewidth=\dimen277
 ) (/usr/share/texmf/tex/generic/babel/babel.sty
 Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
-\babel@savecnt=\count319
-\U@D=\dimen271
+\babel@savecnt=\count320
+\U@D=\dimen278
 \l@unhyphenated=\language90
  (/usr/share/texmf/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count320
+\bbl@dirlevel=\count321
  (/usr/share/texmf/tex/generic/babel-portuges/portuguese.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 Package babel Info: Making " an active character on input line 143.
@@ -336,39 +355,39 @@ Package babel Info: Importing font and identification data for portuguese
 ) (./tables/abc.tex) (./tables/vowels.tex) (./tables/diacritics.tex) (./tables/digraphs.tex) (build/manual.aux)
 \openout1 = `manual.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 33.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 34.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 34.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    ... okay on input line 34.
  (/usr/share/texmf/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count321
-\scratchdimen=\dimen272
-\scratchbox=\box81
-\nofMPsegments=\count322
-\nofMParguments=\count323
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count324
-\MPscratchDim=\dimen273
-\MPnumerator=\count325
-\makeMPintoPDFobject=\count326
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count322
+\scratchdimen=\dimen279
+\scratchbox=\box83
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen280
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks29
 ) (/usr/share/texmf/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
  (/usr/share/texmf/tex/generic/infwarerr/infwarerr.sty
@@ -452,7 +471,7 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 [11]
 
 [12]
-Underfull \hbox (badness 2781) in paragraph at lines 150--151
+Underfull \hbox (badness 2781) in paragraph at lines 151--152
 []\OT1/cmr/m/n/12 Mas, se f^ossemos ex-pli-ci-tar todo ``a'' grave,
  []
 
@@ -486,13 +505,18 @@ Underfull \hbox (badness 2781) in paragraph at lines 150--151
 [21]
 
 [22]
-Underfull \hbox (badness 4096) in paragraph at lines 244--245
+Underfull \hbox (badness 4096) in paragraph at lines 245--246
 []\OT1/cmr/m/n/12 Na pa-la-vra ``lin-gua-gem'' te-mos um exem-plo
  []
 
 
 
 [23]
+Underfull \hbox (badness 10000) in alignment at lines 274--274
+[] 
+ []
+
+
 
 [24]
 
@@ -506,7 +530,7 @@ Underfull \hbox (badness 4096) in paragraph at lines 244--245
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
 
-Underfull \hbox (badness 1817) in paragraph at lines 293--293
+Underfull \hbox (badness 1817) in paragraph at lines 310--310
 [][]\OT1/cmr/m/n/12 A pa-la-vra ``res-tau-ra-dor'' ^^Se in-te-res-sante, por-que
  []
 
@@ -530,25 +554,27 @@ Underfull \hbox (badness 1817) in paragraph at lines 293--293
 
 [34]
 
-[35] (build/manual.aux)
+[35]
+
+[36] (build/manual.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9472 strings out of 473190
- 173048 string characters out of 5725178
- 616973 words of memory out of 5000000
- 32593 multiletter control sequences out of 15000+600000
+ 9595 strings out of 473190
+ 174755 string characters out of 5725178
+ 629528 words of memory out of 5000000
+ 32711 multiletter control sequences out of 15000+600000
  573293 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,109p,1298b,858s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,13n,109p,1298b,862s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa10.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa12.pfb>
-Output written on build/manual.pdf (36 pages, 192110 bytes).
+Output written on build/manual.pdf (37 pages, 194510 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
+ 192 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
