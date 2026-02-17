@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  17 FEB 2026 11:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=pdflatex 2026.1.27)  17 FEB 2026 11:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -499,7 +499,7 @@ Underfull \hbox (badness 2781) in paragraph at lines 150--151
 
 
 [24]
-Underfull \hbox (badness 1817) in paragraph at lines 276--276
+Underfull \hbox (badness 1817) in paragraph at lines 277--277
 [][]\OT1/cmr/m/n/12 A pa-la-vra ``res-tau-ra-dor'' ^^Se in-te-res-sante, por-que
  []
 
@@ -538,7 +538,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,11n,109p,1298b,858s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa10.pfb></usr/share/texmf/fonts/type1/public/tipa/tipa12.pfb>
-Output written on build/manual.pdf (35 pages, 190616 bytes).
+Output written on build/manual.pdf (35 pages, 190598 bytes).
 PDF statistics:
  183 PDF objects out of 1000 (max. 8388607)
  118 compressed objects within 2 object streams
