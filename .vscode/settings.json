@@ -1,0 +1,35 @@
+{
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "xelatex ➞ build ➞ move to root/out",
+      "tools": [
+        "xelatex",
+        "move_pdf"
+      ]
+    }
+  ],
+  "latex-workshop.latex.tools": [
+    {
+      "name": "xelatex",
+      "command": "latexmk",
+      "args": [
+        "-xelatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-outdir=build",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "move_pdf",
+      "command": "python",
+      "args": [
+        "-c",
+        "import os, shutil; os.makedirs(os.path.join('%WORKSPACE_FOLDER%', 'out'), exist_ok=True); shutil.move('build/%DOCFILE%.pdf', os.path.join('%WORKSPACE_FOLDER%', 'out', '%DOCFILE%.pdf'))"
+      ]
+    }
+  ],
+  "latex-workshop.latex.outDir": "%WORKSPACE_FOLDER%/out",
+  "latex-workshop.view.pdf.viewer": "tab"
+}
