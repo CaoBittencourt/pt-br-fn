@@ -1,13 +1,14 @@
-vogal        , tonicidade, aguda     , grave , nasal
-a            , forte     , á         , à     , â
-a            , fraca     , a         , a     , ã
-e            , forte     , é         , è     , 
-e            , fraca     , e         , e     , 
-i            , forte     , í         ,       , î
-i            , fraca     , i         ,       , ĩ
-y            , fraca     , y         ,       , ỹ
-o            , forte     , ó         , ò     , 
-o            , fraca     , o         , o     , 
-u            , forte     , ú         ,       , û
-u            , fraca     , u         ,       , ũ
-w            , fraca     , v/ł       ,       , ṽ
+vogal, tonicidade, aguda, grave, nasal
+a    , forte     , á    , à    , â
+a    , fraca     , a    , a    , ã
+e    , forte     , é    , è    , 
+e    , fraca     , e    , e    , 
+i    , forte     , í    ,      , î
+i    , fraca     , i    ,      , ĩ
+y    , fraca     , y    ,      , ỹ
+o    , forte     , ó    , ò    , 
+o    , fraca     , o    , o    , 
+u    , forte     , ú    ,      , û
+u    , fraca     , u    ,      , ũ
+w    , fraca     , v    ,      , Ṽ
+w    , fraca     , ł    ,      , 
