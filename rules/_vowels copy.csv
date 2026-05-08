@@ -1,0 +1,20 @@
+vogal, altura, tonicidade, normal, nasal
+a    , aguda , forte     , Ǽǽ    , 
+a    , aguda , fraca     , Ææ    , 
+a    , grave , forte     , Áá    , Ââ
+a    , grave , fraca     , Aa    , Ãã
+e    , aguda , forte     , Ćć    , 
+e    , aguda , fraca     , Cc    , 
+e    , grave , forte     , Éé    , 
+e    , grave , fraca     , Ee    , 
+i    , aguda , forte     , Íí    , Îî
+i    , aguda , fraca     , Ii    , Ĩĩ
+y    , aguda , fraca     , Yy    , Ỹỹ
+o    , aguda , forte     , Ǿǿ    , 
+o    , aguda , fraca     , Øø    , 
+o    , grave , forte     , Óó    , 
+o    , grave , fraca     , Oo    , 
+u    , aguda , forte     , Úú    , Ûû
+u    , aguda , fraca     , Uu    , Ũũ
+v    , aguda , fraca     , Vv    , Ṽṽ
+ł    , aguda , fraca     , Łł    , 

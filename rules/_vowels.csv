@@ -1,20 +1,58 @@
-vogal, altura, tonicidade, normal, nasal
-a    , aguda , forte     , Ǽǽ    , 
-a    , aguda , fraca     , Ææ    , 
-a    , grave , forte     , Áá    , Ââ
-a    , grave , fraca     , Aa    , Ãã
-e    , aguda , forte     , Ćć    , 
-e    , aguda , fraca     , Cc    , 
-e    , grave , forte     , Éé    , 
-e    , grave , fraca     , Ee    , 
-i    , aguda , forte     , Íí    , Îî
-i    , aguda , fraca     , Ii    , Ĩĩ
-y    , aguda , fraca     , Yy    , Ỹỹ
-o    , aguda , forte     , Ǿǿ    , 
-o    , aguda , fraca     , Øø    , 
-o    , grave , forte     , Óó    , 
-o    , grave , fraca     , Oo    , 
-u    , aguda , forte     , Úú    , Ûû
-u    , aguda , fraca     , Uu    , Ũũ
-v    , aguda , fraca     , Vv    , Ṽṽ
-ł    , aguda , fraca     , Łł    , 
+vogal  , altura, tonicidade, normal, nasal
+a      , aguda , forte     , Ǽǽ    , 
+a      , aguda , fraca     , Ææ    , 
+a      , grave , forte     , Áá    , Ââ
+a      , grave , fraca     , Aa    , Ãã
+e      , aguda , forte     , Ćć    , 
+e      , aguda , fraca     , Cc    , 
+e      , grave , forte     , Éé    , 
+e      , grave , fraca     , Ee    , 
+i      , aguda , forte     , Íí    , Îî
+i      , aguda , fraca     , Ii    , Ĩĩ
+y      , aguda , fraca     , Yy    , Ỹỹ
+o      , aguda , forte     , Ǿǿ    , 
+o      , aguda , fraca     , Øø    , 
+o      , grave , forte     , Óó    , 
+o      , grave , fraca     , Oo    , 
+u      , aguda , forte     , Úú    , Ûû
+u      , aguda , fraca     , Uu    , Ũũ
+v      , aguda , fraca     , Vv    , Ṽṽ
+ł      , aguda , fraca     , Łł    , 
+
+vogal  , tônica, nasal     , N     , 1     , 2, 3, 4, 5
+à      , x     , x         , 3     , ôõóo  , u,  , o, o
+i      , x     , x         , 3     , îĩíi  , i, i, u, iỉƙ̉̉̉̉̉̉̉̉̉̉̉̉̉̉
+u      , x     , x         , 3     , ŷỹýy  , y, y, y, u
+[w]    ,       , x         , 1     , ṽv    , v, v, v, v
+[j]    ,       , x         , 1     , ũu?   ,  , u, i, y
+a      , x     ,           , 1     , áa    , a, a, c, a
+e      , x     ,           , 1     , ée    , e, e, p, e
+é      , x     ,           , 1     , ǽæ    , æ, c,  , æ
+ó      , x     ,           , 1     , ćc    , c, ç,  , c
+o      , x     ,           , 1     , ḉçṕpǿø, o, o,  , ç
+
+a      , á     , ã         , â     , N
+e      , é     , ẽ         , ê     , 3
+u      , ú     , ũ         , û     , 3
+i      , í     , ĩ         , î     , 3
+o      , ó     , õ         , ô     , 3
+a      , á     , ã         , â     , 3
+y      , ý     , ỹ         , ŷ     , 3
+c      , ć     ,           , ĉ     , 2
+ç      , ḉ     ,           ,       , 1
+v      ,       , ṽ         ,       , 1
+æ      , ǽ     ,           ,       , 1
+ø      , ǿ     ,           ,       , 1
+p      , ṕ     ,           ,       , 1
+
+3 (3+3)
+7 (6+3)
+
+u[w]   , ýỹŷṽ
+o      , ḉç
+ó      , ćc
+i[j]   , íĩîũ
+e      , ée
+é      , ǽæ
+a      , áa
+à      , óõô
