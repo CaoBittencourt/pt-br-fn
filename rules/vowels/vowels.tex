@@ -1,10 +1,85 @@
 \documentclass[12pt, a4paper]{article}
 
 \usepackage{pdfpages}
+% \usepackage[backend=biber,style=apa]{biblatex}
+\usepackage{tocloft}
+\setlength{\cftsecindent}{0pt}
+\setlength{\cftsubsecindent}{0pt}
+\setlength{\cftsubsubsecindent}{0pt}
 
+\usepackage{amsmath}
+\usepackage{tipa}
+
+\usepackage{tabularx}
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs}
+
+
+\newcommand{\abcii}{
+    \begin{longtblr}[
+            caption = {Avfabetu Brazileyru},
+        ]{
+            colspec   = {*{5}{X[c,m]}},
+            width = \linewidth,
+            row{odd}  = {font=\boldmath},
+            row{odd}  = {cmd=\scalebox{1.25}},
+            row{even} = {cmd=\scalebox{0.75}},
+            row{odd}  = {abovesep+=5pt},
+            row{even}  = {abovesep+=-5pt},
+            row{even}  = {belowsep+=7pt},
+            rowhead = 1,
+            rowfoot = 0
+        }
+        \toprule
+        Aa     & Bb        & Cc  & Dd  & Ee     \\
+        A      & Be        & Ca  & De  & E      \\
+        Ff     & Gg        & Hh  & Ii  & Yy     \\
+        Efi    & Ga        & Ehi & I   & Cvazii \\
+        Jj     & Ll        & Mm  & Nn  & Oo     \\
+        Jota   & Elli      & Emi & Eni & O      \\
+        Tt     & Pp        & Rr  & Ss  & Uu     \\
+        Te     & Pe        & Eri & Esi & U      \\
+        Vv     & Łł        & Ww  & Xx  & Zz     \\
+        Cvaziu & Cvazielli & We  & Xis & Ze     \\
+        \bottomrule
+    \end{longtblr}
+}
+
+\newcommand{\abci}{
+    \begin{longtblr}[
+        caption = {Avfabetu brazileyru},
+        ]{
+        colspec   = {*{5}{X[c,m]}},
+        width = \linewidth,
+        row{odd}  = {font=\boldmath},
+        row{odd}  = {cmd=\scalebox{1.25}},
+        row{even} = {cmd=\scalebox{0.75}},
+        row{odd}  = {abovesep+=5pt},
+        row{even}  = {abovesep+=-5pt},
+        row{even}  = {belowsep+=7pt},
+        rowhead = 1,
+        rowfoot = 0
+        }
+        \toprule
+        Aa & Bb & Cc & Dd & Ee & Ff \\
+        A & Be & Ca & De & E & Efi \\
+        Gg & Hh & Ii & Yy & Jj & Ll \\
+        Ga & Ehi & I & Cvazii & Jota & Elli \\
+        Mm & Nn & Oo & Tt & Pp & Rr \\
+        Emi & Eni & O & Te & Pe & Eri \\
+        Ss & Uu & Vv & Ww & Xx & Zz \\
+        Esi & U & Cvaziu & We & Xis & Ze \\
+        \bottomrule
+    \end{longtblr}
+}
 
 \begin{document}
-Saṽ Migeł Ahrcãju, defeỹdeynus nu coṽbatxi. Sedji u nosu hefugyu coṽtra as mavdadjis i siladas du demonyu. Ci Devs manifestxi u sev podehr sobri elli. Eys a nosa umivdji súpllica. I wos, Prîsipi da Millisya Selestxi, coṽ u podehr ci Devs wus coṽferiv, presipitay nu Ĩfehrnu satanás i todus us ispíritus mallignus ci ãdaṽ pelu mũdu para pehrdehr as avmas. Amèỹ. \\
+\abci
+\abcii
 
-Soṽ Migæł Ahrkõjy, defeũdeunys ny kçṽbatxi. Sedji y ncsy hefyguy kçṽtra as mavdadjis i siladas dy demçnuy. Ki Devs manifæstxi y sev pçdehr sçbri elli. Eus a ncsa ymivdji sýpllika. I wcs, Prîsipi da Millisua Selæstxi, kçṽ y pçdehr ki Devs wys kçṽferiv, presipitau ny Ĩfæhrny satanás i tçdys ys ispíritys mallignys ki õdoṽ pely mỹdy para pehrdehr as avmas. Améũ.
+Saṽ Migeł Ahrcãju, defeỹdeynus nu coṽbatxi. Sedji u nosu hefugyu coṽtra as mavdadjis i siladas du demonyu. Ci Devs manifestxi u sev podehr sobri elli. Eys a nosa umivdji súpllica. I wos, Prîsipi da Millisya Selestxi, coṽ u podehr ci Devs wus coṽferiv, presipitay nu Ĩfehrnu satanás i todus us ispíritus mallignus ci ãdaṽ pelu mũdu para pehrdehr as avmas. Amèỹ.
+
+% Suṽ Migæł Ahrkũjy, defel̃delnys ny koṽbatxi. Sedji y ncsy hefyjly koṽtra as mavdadjis i siładas dy demonly. Ki Devs manifæstxi y sev podehr sobri ełłi. Els a ncsa ymivdji sýpłłika. I wcs, Prîsipi da Miłłisla Sełæstxi, koṽ y podehr ki Devs wys koṽferiv, presipital ny Ĩfæhrny satanás i todys ys ispíritys małłignys ki ũduṽ pełły mỹdy para pehrdehr as avmas. Amél̃.\\
+
+% Soṽ Migæł Ahrkõjy, defeũdeunys ny kçṽbatxi. Sedji y ncsy hefyguy kçṽtra as mavdadjis i siladas dy demçnuy. Ki Devs manifæstxi y sev pçdehr sçbri elli. Eus a ncsa ymivdji sýpllika. I wcs, Prîsipi da Millisua Selæstxi, kçṽ y pçdehr ki Devs wys kçṽferiv, presipitau ny Ĩfæhrny satanás i tçdys ys ispíritys mallignys ki õdoṽ pely mỹdy para pehrdehr as avmas. Améũ.
 \end{document}

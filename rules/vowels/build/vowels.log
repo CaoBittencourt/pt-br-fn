@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=xelatex 2026.1.27)  8 MAY 2026 11:27
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=xelatex 2026.1.27)  8 MAY 2026 13:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -94,31 +94,274 @@ File: ppxetex.def 2025/01/30 v0.6e Pdfpages driver for XeTeX (AM)
 \AM@lof@heading=\toks20
 \c@AM@survey=\count272
 \AM@templatesizebox=\box53
-) (/usr/share/texmf/tex/latex/l3backend/l3backend-xetex.def
+) (/usr/share/texmf/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip54
+\cftbeforetoctitleskip=\skip55
+\cftaftertoctitleskip=\skip56
+\cftbeforepartskip=\skip57
+\cftpartnumwidth=\skip58
+\cftpartindent=\skip59
+\cftbeforesecskip=\skip60
+\cftsecindent=\skip61
+\cftsecnumwidth=\skip62
+\cftbeforesubsecskip=\skip63
+\cftsubsecindent=\skip64
+\cftsubsecnumwidth=\skip65
+\cftbeforesubsubsecskip=\skip66
+\cftsubsubsecindent=\skip67
+\cftsubsubsecnumwidth=\skip68
+\cftbeforeparaskip=\skip69
+\cftparaindent=\skip70
+\cftparanumwidth=\skip71
+\cftbeforesubparaskip=\skip72
+\cftsubparaindent=\skip73
+\cftsubparanumwidth=\skip74
+\cftbeforeloftitleskip=\skip75
+\cftafterloftitleskip=\skip76
+\cftbeforefigskip=\skip77
+\cftfigindent=\skip78
+\cftfignumwidth=\skip79
+\c@lofdepth=\count273
+\c@lotdepth=\count274
+\cftbeforelottitleskip=\skip80
+\cftafterlottitleskip=\skip81
+\cftbeforetabskip=\skip82
+\cfttabindent=\skip83
+\cfttabnumwidth=\skip84
+) (/usr/share/texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip85
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen151
+)) (/usr/share/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen152
+) (/usr/share/texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count275
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count276
+\leftroot@=\count277
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count278
+\DOTSCASE@=\count279
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen153
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count280
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count281
+\dotsspace@=\muskip17
+\c@parentequation=\count282
+\dspbrk@lvl=\count283
+\tag@help=\toks22
+\row@=\count284
+\column@=\count285
+\maxfields@=\count286
+\andhelp@=\toks23
+\eqnshift@=\dimen154
+\alignsep@=\dimen155
+\tagshift@=\dimen156
+\tagwidth@=\dimen157
+\totwidth@=\dimen158
+\lineht@=\dimen159
+\@envbody=\toks24
+\multlinegap=\skip86
+\multlinetaggap=\skip87
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/share/texmf/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+ (/usr/share/texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+ (/usr/share/texmf/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+))) (/usr/share/texmf/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+ (/usr/share/texmf/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen160
+\ar@mcellbox=\box56
+\extrarowheight=\dimen161
+\NC@list=\toks26
+\extratabsurround=\skip88
+\backup@length=\skip89
+\ar@cellbox=\box57
+)
+\TX@col@width=\dimen162
+\TX@old@table=\dimen163
+\TX@old@col=\dimen164
+\TX@target=\dimen165
+\TX@delta=\dimen166
+\TX@cols=\count287
+\TX@ftn=\toks27
+) (/usr/share/texmf/tex/latex/tabularray/tabularray.sty (/usr/share/texmf/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+ (/usr/share/texmf/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
-\g__graphics_track_int=\count273
-\l__pdf_internal_box=\box54
-\g__pdf_backend_annotation_int=\count274
-\g__pdf_backend_link_int=\count275
+\g__graphics_track_int=\count288
+\l__pdf_internal_box=\box58
+\g__pdf_backend_annotation_int=\count289
+\g__pdf_backend_link_int=\count290
+))
+Package: tabularray 2024-02-16 v2024A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count291
+\l__tblr_c_int=\count292
+\l__tblr_r_int=\count293
+\l__tblr_d_dim=\dimen167
+\l__tblr_h_dim=\dimen168
+\l__tblr_o_dim=\dimen169
+\l__tblr_p_dim=\dimen170
+\l__tblr_q_dim=\dimen171
+\l__tblr_r_dim=\dimen172
+\l__tblr_s_dim=\dimen173
+\l__tblr_t_dim=\dimen174
+\l__tblr_v_dim=\dimen175
+\l__tblr_w_dim=\dimen176
+\l__tblr_a_box=\box59
+\l__tblr_b_box=\box60
+\l__tblr_c_box=\box61
+\l__tblr_d_box=\box62
+\g__tblr_table_count_int=\count294
+\c@rownum=\count295
+\c@colnum=\count296
+\c@rowcount=\count297
+\c@colcount=\count298
+\abovesep=\dimen177
+\belowsep=\dimen178
+\leftsep=\dimen179
+\rightsep=\dimen180
+\g_tblr_level_int=\count299
+\g__tblr_data_row_key_count_int=\count300
+\g__tblr_data_column_key_count_int=\count301
+\g__tblr_data_cell_key_count_int=\count302
+\g__tblr_array_int=\count303
+\l__tblr_key_count_int=\count304
+\l__tblr_key_quotient_int=\count305
+\l__tblr_key_quotient_two_int=\count306
+\l__tblr_key_remainder_int=\count307
+\g__tblr_data_str_value_count_int=\count308
+\rulewidth=\dimen181
+\l__tblr_strut_dp_dim=\dimen182
+\l__tblr_strut_ht_dim=\dimen183
+\g__tblr_cell_wd_dim=\dimen184
+\g__tblr_cell_ht_dim=\dimen185
+\g__tblr_cell_head_dim=\dimen186
+\g__tblr_cell_foot_dim=\dimen187
+\l__column_target_dim=\dimen188
+\l__tblr_caption_box=\box63
+\l__tblr_caption_left_box=\box64
+\l__tblr_row_head_box=\box65
+\l__tblr_row_foot_box=\box66
+\l__tblr_row_head_foot_dim=\dimen189
+\tablewidth=\dimen190
+\l__tblr_table_firsthead_box=\box67
+\l__tblr_table_middlehead_box=\box68
+\l__tblr_table_lasthead_box=\box69
+\l__tblr_table_firstfoot_box=\box70
+\l__tblr_table_middlefoot_box=\box71
+\l__tblr_table_lastfoot_box=\box72
+\l__tblr_remain_height_dim=\dimen191
+\l__tblr_long_from_int=\count309
+\l__tblr_long_to_int=\count310
+\l__tblr_curr_i_int=\count311
+\l__tblr_prev_i_int=\count312
+\l__tblr_table_page_int=\count313
+\l__tblr_table_head_box=\box73
+\l__tblr_table_foot_box=\box74
+\l__tblr_table_head_foot_dim=\dimen192
+\l__tblr_table_head_body_foot_dim=\dimen193
+\l__tblr_table_box=\box75
+\l__tblr_table_hlines_box=\box76
+\l__tblr_hline_box=\box77
+\l__tblr_row_box=\box78
+\l__tblr_col_o_wd_dim=\dimen194
+\l__tblr_col_b_wd_dim=\dimen195
+\l__tblr_hline_leftskip_dim=\dimen196
+\l__tblr_hline_rightskip_dim=\dimen197
+\l__tblr_row_ht_dim=\dimen198
+\l__tblr_row_dp_dim=\dimen199
+\l__tblr_row_abovesep_dim=\dimen256
+\l__tblr_row_belowsep_dim=\dimen257
+\l__tblr_row_vlines_box=\box79
+\l__tblr_vline_box=\box80
+\l__tblr_cell_box=\box81
+\l__row_upper_dim=\dimen258
+\l__row_lower_dim=\dimen259
+\l__row_vpace_dim=\dimen260
+\l__tblr_vline_aboveskip_dim=\dimen261
+\l__tblr_vline_belowskip_dim=\dimen262
+\l__tblr_cell_wd_dim=\dimen263
+\l__tblr_cell_ht_dim=\dimen264
+\l__tblr_diag_box=\box82
+) (/usr/share/texmf/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen265
+\lightrulewidth=\dimen266
+\cmidrulewidth=\dimen267
+\belowrulesep=\dimen268
+\belowbottomsep=\dimen269
+\aboverulesep=\dimen270
+\abovetopsep=\dimen271
+\cmidrulesep=\dimen272
+\cmidrulekern=\dimen273
+\defaultaddspace=\dimen274
+\@cmidla=\count314
+\@cmidlb=\count315
+\@aboverulesep=\dimen275
+\@belowrulesep=\dimen276
+\@thisruleclass=\count316
+\@lastruleclass=\count317
+\@thisrulewidth=\dimen277
 ) (build/vowels.aux)
 \openout1 = `vowels.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 76.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 76.
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 76.
  (/usr/share/texmf/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
  (/usr/share/texmf/tex/latex/pdflscape/pdflscape-nometadata.sty
@@ -129,17 +372,27 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+)) (/usr/share/texmf/tex/latex/ninecolors/ninecolors.sty
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
+ (/usr/share/texmf/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
 ))
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
 
 Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
@@ -158,12 +411,12 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2655 strings out of 473832
- 41652 string characters out of 5737748
- 439452 words of memory out of 5000000
- 25734 multiletter control sequences out of 15000+600000
- 558845 words of font info for 37 fonts, out of 8000000 for 9000
+ 7440 strings out of 473832
+ 135776 string characters out of 5737748
+ 575767 words of memory out of 5000000
+ 30445 multiletter control sequences out of 15000+600000
+ 565634 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,5n,79p,427b,110s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,7n,101p,424b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on build/vowels.xdv (1 page, 7772 bytes).
+Output written on build/vowels.xdv (1 page, 15908 bytes).
