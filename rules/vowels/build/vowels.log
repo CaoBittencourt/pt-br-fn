@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=xelatex 2026.1.27)  8 MAY 2026 13:50
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/TeX Live for SUSE Linux) (preloaded format=xelatex 2026.1.27)  14 MAY 2026 13:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -394,29 +394,40 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
 
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
-
 
 [1
 
-] (build/vowels.aux)
+]
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ṽ (U+1E7D) in font [lmroman12-regular]:mapping=tex-text;!
+
+
+[2] (build/vowels.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7440 strings out of 473832
- 135776 string characters out of 5737748
- 575767 words of memory out of 5000000
- 30445 multiletter control sequences out of 15000+600000
- 565634 words of font info for 59 fonts, out of 8000000 for 9000
+ 7449 strings out of 473832
+ 136019 string characters out of 5737748
+ 573767 words of memory out of 5000000
+ 30449 multiletter control sequences out of 15000+600000
+ 565666 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,7n,101p,424b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,7n,101p,425b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on build/vowels.xdv (1 page, 15908 bytes).
+Output written on build/vowels.xdv (2 pages, 29568 bytes).

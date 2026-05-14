@@ -1,12 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1778259001 "build/vowels.xdv" "build/vowels.pdf" "build/vowels" 1778259001 0
-  "build/vowels.xdv" 1778259001 15908 e4638e2daf108da8337133f9e2f1a740 "xelatex"
+["xdvipdfmx"] 1778775339.88842 "build/vowels.xdv" "build/vowels.pdf" "build/vowels" 1778775340.07561 0
+  "build/vowels.xdv" 1778775339.86475 29568 a4f6d0be3efaf38bd6f96407422de591 "xelatex"
   (generated)
   "build/vowels.pdf"
   (rewritten before read)
-["xelatex"] 1778259000 "/home/Cao/pt-br-fn/rules/vowels/vowels.tex" "build/vowels.xdv" "vowels" 1778259001 0
+["xelatex"] 1778775338.59015 "/home/Cao/pt-br-fn/rules/vowels/vowels.tex" "build/vowels.xdv" "vowels" 1778775340.07507 0
   "/etc/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
-  "/home/Cao/pt-br-fn/rules/vowels/vowels.tex" 1778258998 3488 064f7497127d64bd3cb2c690fe870904 ""
+  "/home/Cao/pt-br-fn/rules/vowels/vowels.tex" 1778775338.43093 4991 fc983de1989f82a9b0faa5b5c6eba338 ""
   "/usr/share/texmf/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -62,8 +62,8 @@
   "/usr/share/texmf/tex/latex/xcolor/xcolor.sty" 1727642399 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1741769514 43181 d90f40530f1ae7496cf56c5081b5c253 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1769534002 6459403 85dc4be251ae1252da46256b3bd75382 ""
-  "build/vowels.aux" 1778259001 246 3cacf43aaa4f3df371d53f024c0e1af4 "xelatex"
-  "vowels.tex" 1778258998 3488 064f7497127d64bd3cb2c690fe870904 ""
+  "build/vowels.aux" 1778775339.86403 666 4b5ed39ad19149adb7be750c22cd9b94 "xelatex"
+  "vowels.tex" 1778775338.43093 4991 fc983de1989f82a9b0faa5b5c6eba338 ""
   (generated)
   "build/vowels.aux"
   "build/vowels.log"
